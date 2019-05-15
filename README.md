@@ -4,9 +4,11 @@ Hello world!
 
 ## Day 1 - 4 hours :
 
-**Courses** :
+**Courses and Lectures** :
 
 Yandex - [Supervised learning](https://www.coursera.org/learn/supervised-learning/home/welcome) - week 2 
+
+PyData Ann Arbor: Caitlin Hudon - [Building Data Science](https://www.youtube.com/watch?v=WlBamzdiwic)
 
 **Theory** : 
 
