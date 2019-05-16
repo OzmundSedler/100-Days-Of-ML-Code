@@ -57,7 +57,7 @@ Bike Sharing Demand case. Data preprocessing. Feature scaling. Pipelines.
 
 **Notebooks** :
 
-[Sklearn grid search](https://colab.research.google.com/drive/1UnSuv1SsrW_8-uvIjCOKoE9UGhE3gdFT)
+[Sklearn grid search](https://colab.research.google.com/drive/1TugvgI8zGuGqFPi8ckWCR4AtJSIfB6Ab)
 
 [Bike sharing demand. Sklearn case 1](https://colab.research.google.com/drive/1z1P9LKDxNjkcKSrdHeK5Q0c_h1lI8opv)
 
