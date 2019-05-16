@@ -30,7 +30,7 @@ Naive Bayes. Links: [1](https://dataaspirant.com/2017/02/06/naive-bayes-classifi
 
 Digging into collab and this github repo to make it beautiful :)
 
-## Day 2 - 3 hours :
+## Day 2 - 2.5 hours :
 
 **Courses and Lectures** :
 
@@ -38,7 +38,6 @@ Yandex - [Supervised learning](https://www.coursera.org/learn/supervised-learnin
 
 [Getting Started with TensorFlow 2.0 (Google I/O'19)](https://www.youtube.com/watch?v=lEljKc9ZtU8)
 
-[TensorFlow Extended: Machine Learning Pipelines and Model Understanding (Google I/O'19)](https://www.youtube.com/watch?v=drYM04t57tU)
 
 #io19
 
