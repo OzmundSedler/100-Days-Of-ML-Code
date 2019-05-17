@@ -61,3 +61,21 @@ Bike Sharing Demand case. Data preprocessing. Feature scaling. Pipelines.
 [Bike sharing demand. Sklearn case 1](https://colab.research.google.com/drive/1z1P9LKDxNjkcKSrdHeK5Q0c_h1lI8opv)
 
 [Bike sharing demand. Sklearn case 2](https://colab.research.google.com/drive/1fA_ySZ75olMrHuV-gt2G4nsWPQi9vLcD)
+
+
+## Day 3 - 1.5 hours :
+
+**Courses and Lectures** :
+
+Yandex - [Supervised learning](https://www.coursera.org/learn/supervised-learning/home/welcome) - week 3, started coding exercise. 
+
+[https://www.youtube.com/watch?v=drYM04t57tU](https://www.youtube.com/watch?v=drYM04t57tU)
+
+**Practice** : 
+
+Doing coding exercise of Yandex week 3. Suffering from old libs functions. Refactoring it to new versions.
+
+**Notebooks** :
+
+Will be finished next day
+
