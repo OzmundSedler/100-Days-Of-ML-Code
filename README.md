@@ -69,7 +69,7 @@ Bike Sharing Demand case. Data preprocessing. Feature scaling. Pipelines.
 
 Yandex - [Supervised learning](https://www.coursera.org/learn/supervised-learning/home/welcome) - week 3, started coding exercise. 
 
-[https://www.youtube.com/watch?v=drYM04t57tU](https://www.youtube.com/watch?v=drYM04t57tU)
+[TensorFlow Extended: Machine Learning Pipelines and Model Understanding (Google I/O'19)](https://www.youtube.com/watch?v=drYM04t57tU)
 
 **Practice** : 
 
