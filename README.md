@@ -6,7 +6,7 @@ Hello world!
 
 **Courses and Lectures** :
 
-Yandex - [Supervised learning](https://www.coursera.org/learn/supervised-learning/home/welcome) - week 2 
+Yandex - [Supervised learning](https://www.coursera.org/learn/supervised-learning/home/welcome) - week 3 
 
 PyData Ann Arbor: Caitlin Hudon - [Building Data Science](https://www.youtube.com/watch?v=WlBamzdiwic)
 
@@ -29,3 +29,35 @@ Naive Bayes. Links: [1](https://dataaspirant.com/2017/02/06/naive-bayes-classifi
 **Other** :
 
 Digging into collab and this github repo to make it beautiful :)
+
+## Day 2 - 2.5 hours :
+
+**Courses and Lectures** :
+
+Yandex - [Supervised learning](https://www.coursera.org/learn/supervised-learning/home/welcome) - week 3, practice start 
+
+[Getting Started with TensorFlow 2.0 (Google I/O'19)](https://www.youtube.com/watch?v=lEljKc9ZtU8)
+
+
+#io19
+
+**Theory** : 
+
+Tensorflow piplines e.t.c. from io19. 
+
+**Practice** : 
+
+All described the day before in theory section .
+
+Sklearn. Best parameters search. Grid search.
+
+Bike Sharing Demand case. Data preprocessing. Feature scaling. Pipelines.
+
+
+**Notebooks** :
+
+[Sklearn grid search](https://colab.research.google.com/drive/1TugvgI8zGuGqFPi8ckWCR4AtJSIfB6Ab)
+
+[Bike sharing demand. Sklearn case 1](https://colab.research.google.com/drive/1z1P9LKDxNjkcKSrdHeK5Q0c_h1lI8opv)
+
+[Bike sharing demand. Sklearn case 2](https://colab.research.google.com/drive/1fA_ySZ75olMrHuV-gt2G4nsWPQi9vLcD)
