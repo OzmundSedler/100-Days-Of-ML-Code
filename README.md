@@ -81,7 +81,7 @@ Doing coding exercise of Yandex week 3. Suffering from old libs functions. Refac
 
 Will be finished next day
 
-## Day 3 - 3 hours :
+## Day 4 - 4 hours :
 
 **Courses and Lectures** :
 
