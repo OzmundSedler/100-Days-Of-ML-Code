@@ -2,6 +2,8 @@
 Hello world!
 100 Days of Machine Learning Coding as proposed by Siraj Raval
 
+#100DaysOfMLCode
+
 ## Day 1 - 4 hours :
 
 **Courses and Lectures** :
@@ -78,4 +80,29 @@ Doing coding exercise of Yandex week 3. Suffering from old libs functions. Refac
 **Notebooks** :
 
 Will be finished next day
+
+## Day 3 - 3 hours :
+
+**Courses and Lectures** :
+
+Yandex - [Supervised learning](https://www.coursera.org/learn/supervised-learning/home/welcome) - week 3, finished coding exercise. God, translation to english was real pain XD Now i need to find beautiful man, that will help me to correct it XD
+
+**Practice** : 
+
+Finished coding exercise of Yandex week 3.
+
+**Notebooks** :
+
+[Data preprocessing and logistic regression for binary classification tasks](https://colab.research.google.com/drive/15gX4xDvG_8BkqSts3EMbkz4W5ZivndL-)
+
+Dunno if anybody will need it, but i plan to continue translating exercises from this course, becouse they are actually really good (i'd say like Andrew NG practice x2). I opened comments, so feel free to help XD
+
+**Other** :
+
+A lot of good articles today:
+
+[Google Colab Free GPU Tutorial – Deep Learning Turkey – Medium](https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d) - Treasure article
+
+[Use Kaggle to start (and guide) your ML/ Data Science journey — Why and How](https://towardsdatascience.com/use-kaggle-to-start-and-guide-your-ml-data-science-journey-f09154baba35) 
+
 
