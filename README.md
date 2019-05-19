@@ -105,4 +105,16 @@ A lot of good articles today:
 
 [Use Kaggle to start (and guide) your ML/ Data Science journey — Why and How](https://towardsdatascience.com/use-kaggle-to-start-and-guide-your-ml-data-science-journey-f09154baba35) 
 
+## Day 5 - 2 hours :
+
+**Theory** : 
+
+https://en.wikipedia.org/wiki/Receiver_operating_characteristic - Really great brief on the theme.
+
+The numpy chapter of "Python Data Science Handbook" - all written in notebooks, you can test everything, when reading. 
+
+**Other** :
+
+Was working on article for kdnuggets and medium about this challenge :)
+Planning next week. 
 
