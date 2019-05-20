@@ -2,6 +2,8 @@
 Hello world!
 100 Days of Machine Learning Coding as proposed by Siraj Raval
 
+#100DaysOfMLCode
+
 ## Day 1 - 4 hours :
 
 **Courses and Lectures** :
@@ -61,3 +63,58 @@ Bike Sharing Demand case. Data preprocessing. Feature scaling. Pipelines.
 [Bike sharing demand. Sklearn case 1](https://colab.research.google.com/drive/1z1P9LKDxNjkcKSrdHeK5Q0c_h1lI8opv)
 
 [Bike sharing demand. Sklearn case 2](https://colab.research.google.com/drive/1fA_ySZ75olMrHuV-gt2G4nsWPQi9vLcD)
+
+
+## Day 3 - 1.5 hours :
+
+**Courses and Lectures** :
+
+Yandex - [Supervised learning](https://www.coursera.org/learn/supervised-learning/home/welcome) - week 3, started coding exercise. 
+
+[TensorFlow Extended: Machine Learning Pipelines and Model Understanding (Google I/O'19)](https://www.youtube.com/watch?v=drYM04t57tU)
+
+**Practice** : 
+
+Doing coding exercise of Yandex week 3. Suffering from old libs functions. Refactoring it to new versions.
+
+**Notebooks** :
+
+Will be finished next day
+
+## Day 4 - 4 hours :
+
+**Courses and Lectures** :
+
+Yandex - [Supervised learning](https://www.coursera.org/learn/supervised-learning/home/welcome) - week 3, finished coding exercise. God, translation to english was real pain XD Now i need to find beautiful man, that will help me to correct it XD
+
+**Practice** : 
+
+Finished coding exercise of Yandex week 3.
+
+**Notebooks** :
+
+[Data preprocessing and logistic regression for binary classification tasks](https://colab.research.google.com/drive/15gX4xDvG_8BkqSts3EMbkz4W5ZivndL-)
+
+Dunno if anybody will need it, but i plan to continue translating exercises from this course, becouse they are actually really good (i'd say like Andrew NG practice x2). I opened comments, so feel free to help XD
+
+**Other** :
+
+A lot of good articles today:
+
+[Google Colab Free GPU Tutorial – Deep Learning Turkey – Medium](https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d) - Treasure article
+
+[Use Kaggle to start (and guide) your ML/ Data Science journey — Why and How](https://towardsdatascience.com/use-kaggle-to-start-and-guide-your-ml-data-science-journey-f09154baba35) 
+
+## Day 5 - 2 hours :
+
+**Theory** : 
+
+[https://en.wikipedia.org/wiki/Receiver_operating_characteristic] - Really great brief on the theme.
+
+[The numpy chapter of "Python Data Science Handbook"](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/02.00-Introduction-to-NumPy.ipynb) - all written in notebooks, you can test everything, when reading. 
+
+**Other** :
+
+Was working on article for kdnuggets and medium about this challenge :)
+Planning next week. 
+
