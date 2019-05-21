@@ -118,3 +118,24 @@ A lot of good articles today:
 Was working on article for kdnuggets and medium about this challenge :)
 Planning next week. 
 
+
+## Day 6 - 4 hours :
+
+**Courses and Lectures** :
+
+Yandex - [Supervised learning](https://www.coursera.org/learn/supervised-learning/home/welcome) - started week 4.
+
+**Theory** : 
+
+From courses: Decision tree. Overfitting. Stopping criteria. Gini Index and Information Gain. 
+
+[Half of the pandas chapter of "Python Data Science Handbook"](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.00-Introduction-to-Pandas.ipynb)
+
+**Other** :
+
+Published my first [article](
+https://medium.com/@ozmundsedler/100-days-of-machine-learning-code-e5ff109434a0) on Medium !
+
+
+Checked all notebooks with grammlary :) Hope someone will read them XD
+
