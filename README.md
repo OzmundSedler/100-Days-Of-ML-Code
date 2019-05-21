@@ -140,7 +140,7 @@ https://medium.com/@ozmundsedler/100-days-of-machine-learning-code-e5ff109434a0)
 Checked all notebooks with grammlary :) Hope someone will read them XD
 
 
-## Day 6 - 3 hours :
+## Day 7 - 3 hours :
 
 **Courses and Lectures** :
 
