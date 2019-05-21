@@ -139,3 +139,25 @@ https://medium.com/@ozmundsedler/100-days-of-machine-learning-code-e5ff109434a0)
 
 Checked all notebooks with grammlary :) Hope someone will read them XD
 
+
+## Day 6 - 3 hours :
+
+**Courses and Lectures** :
+
+Yandex - [Supervised learning](https://www.coursera.org/learn/supervised-learning/home/welcome) - week 4.
+
+**Theory** : 
+
+Tree pruning. Random Forest. Ensemble methods: bagging, boosting and stacking.OOB.
+
+**Notebooks** :
+
+[Decision trees](https://colab.research.google.com/drive/1t35u2Vf88RpG-UVKW368FLQlkSPZN_DP),
+[Random forest](https://colab.research.google.com/drive/1FcLkZPbIF-do9TrS-nOudwETaR-NS9ze)
+
+**Other** :
+
+[Make your Pandas apply functions faster using Parallel Processing](https://towardsdatascience.com/make-your-own-super-pandas-using-multiproc-1c04f41944a1)
+
+
+
