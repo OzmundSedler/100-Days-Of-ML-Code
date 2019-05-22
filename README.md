@@ -159,5 +159,20 @@ Tree pruning. Random Forest. Ensemble methods: bagging, boosting and stacking.OO
 
 [Make your Pandas apply functions faster using Parallel Processing](https://towardsdatascience.com/make-your-own-super-pandas-using-multiproc-1c04f41944a1)
 
+## Day 8 - 1 hour :
 
+**Courses and Lectures** :
 
+Yandex - [Supervised learning](https://www.coursera.org/learn/supervised-learning/home/welcome) - week 4, practice 1.
+
+**Practice** : 
+
+First practice from week 4 - decision trees, bagging and random forest.
+
+**Notebooks** :
+
+[Bagging and random forest](https://colab.research.google.com/drive/1UA6fSB1_edpchK3Y5yYv19KGtm6icw2y),
+
+**Other** :
+
+[Wonderful article about ensemble methods](https://towardsdatascience.com/ensemble-methods-bagging-boosting-and-stacking-c9214a10a205)
