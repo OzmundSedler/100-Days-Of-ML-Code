@@ -14,10 +14,10 @@ Linear model. MSE. Regression. Regularization (l1,l2). Logistic regression. Fish
 
 Practical advices on linear models. Feature scaling. Straightening spaces. Work with categorical features. Work with Unbalanced data. Multi-class classification.
 
-**Practice** : 
-
 Naive Bayes. Links: [1](https://dataaspirant.com/2017/02/06/naive-bayes-classifier-machine-learning/),
 [2](http://dataaspirant.com/2017/02/20/gaussian-naive-bayes-classifier-implementation-python/)
+
+**Practice** : 
 
 [Naive 1 notebook](https://colab.research.google.com/drive/1UnSuv1SsrW_8-uvIjCOKoE9UGhE3gdFT),
 [Naive 2 notebook](https://colab.research.google.com/drive/1DdPtNxKLTjgk1PE1rp9xTb4IHSgyp6rF)
