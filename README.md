@@ -78,7 +78,7 @@ A lot of good articles today:
 
 **Theory** : 
 
-[https://en.wikipedia.org/wiki/Receiver_operating_characteristic] - Really great brief on the theme.
+[Receiver_operating_characteristic](https://en.wikipedia.org/wiki/Receiver_operating_characteristic) - Really great brief on the theme.
 
 [The numpy chapter of "Python Data Science Handbook"](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/02.00-Introduction-to-NumPy.ipynb) - all written in notebooks, you can test everything, when reading. 
 
