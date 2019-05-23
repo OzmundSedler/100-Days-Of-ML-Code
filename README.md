@@ -2,15 +2,11 @@
 Hello world!
 100 Days of Machine Learning Coding as proposed by Siraj Raval
 
+First step — 2 big learning courses. I selected classic Stanford ML and Yandex ML specialization. I think I will translate collab notebooks with exercises in English if anybody will have an interest in them.
+
 #100DaysOfMLCode
 
 ## Day 1 - 4 hours :
-
-**Courses and Lectures** :
-
-Yandex - [Supervised learning](https://www.coursera.org/learn/supervised-learning/home/welcome) - week 3 
-
-PyData Ann Arbor: Caitlin Hudon - [Building Data Science](https://www.youtube.com/watch?v=WlBamzdiwic)
 
 **Theory** : 
 
@@ -23,25 +19,16 @@ Practical advices on linear models. Feature scaling. Straightening spaces. Work 
 Naive Bayes. Links: [1](https://dataaspirant.com/2017/02/06/naive-bayes-classifier-machine-learning/),
 [2](http://dataaspirant.com/2017/02/20/gaussian-naive-bayes-classifier-implementation-python/)
 
-**Notebooks** :
-
-[Naive 1](https://colab.research.google.com/drive/1UnSuv1SsrW_8-uvIjCOKoE9UGhE3gdFT),
-[Naive 2](https://colab.research.google.com/drive/1DdPtNxKLTjgk1PE1rp9xTb4IHSgyp6rF)
+[Naive 1 notebook](https://colab.research.google.com/drive/1UnSuv1SsrW_8-uvIjCOKoE9UGhE3gdFT),
+[Naive 2 notebook](https://colab.research.google.com/drive/1DdPtNxKLTjgk1PE1rp9xTb4IHSgyp6rF)
 
 **Other** :
+
+PyData Ann Arbor: Caitlin Hudon - [Building Data Science](https://www.youtube.com/watch?v=WlBamzdiwic)
 
 Digging into collab and this github repo to make it beautiful :)
 
 ## Day 2 - 2.5 hours :
-
-**Courses and Lectures** :
-
-Yandex - [Supervised learning](https://www.coursera.org/learn/supervised-learning/home/welcome) - week 3, practice start 
-
-[Getting Started with TensorFlow 2.0 (Google I/O'19)](https://www.youtube.com/watch?v=lEljKc9ZtU8)
-
-
-#io19
 
 **Theory** : 
 
@@ -49,49 +36,31 @@ Tensorflow piplines e.t.c. from io19.
 
 **Practice** : 
 
-All described the day before in theory section .
-
-Sklearn. Best parameters search. Grid search.
-
-Bike Sharing Demand case. Data preprocessing. Feature scaling. Pipelines.
-
-
-**Notebooks** :
-
 [Sklearn grid search](https://colab.research.google.com/drive/1TugvgI8zGuGqFPi8ckWCR4AtJSIfB6Ab)
 
 [Bike sharing demand. Sklearn case 1](https://colab.research.google.com/drive/1z1P9LKDxNjkcKSrdHeK5Q0c_h1lI8opv)
 
 [Bike sharing demand. Sklearn case 2](https://colab.research.google.com/drive/1fA_ySZ75olMrHuV-gt2G4nsWPQi9vLcD)
 
+**Other** :
+
+[Getting Started with TensorFlow 2.0 (Google I/O'19)](https://www.youtube.com/watch?v=lEljKc9ZtU8) #io19
 
 ## Day 3 - 1.5 hours :
-
-**Courses and Lectures** :
-
-Yandex - [Supervised learning](https://www.coursera.org/learn/supervised-learning/home/welcome) - week 3, started coding exercise. 
-
-[TensorFlow Extended: Machine Learning Pipelines and Model Understanding (Google I/O'19)](https://www.youtube.com/watch?v=drYM04t57tU)
 
 **Practice** : 
 
 Doing coding exercise of Yandex week 3. Suffering from old libs functions. Refactoring it to new versions.
 
-**Notebooks** :
+**Other** :
 
-Will be finished next day
+[TensorFlow Extended: Machine Learning Pipelines and Model Understanding (Google I/O'19)](https://www.youtube.com/watch?v=drYM04t57tU)
 
 ## Day 4 - 4 hours :
-
-**Courses and Lectures** :
-
-Yandex - [Supervised learning](https://www.coursera.org/learn/supervised-learning/home/welcome) - week 3, finished coding exercise. God, translation to english was real pain XD Now i need to find beautiful man, that will help me to correct it XD
 
 **Practice** : 
 
 Finished coding exercise of Yandex week 3.
-
-**Notebooks** :
 
 [Data preprocessing and logistic regression for binary classification tasks](https://colab.research.google.com/drive/15gX4xDvG_8BkqSts3EMbkz4W5ZivndL-)
 
@@ -121,13 +90,9 @@ Planning next week.
 
 ## Day 6 - 4 hours :
 
-**Courses and Lectures** :
-
-Yandex - [Supervised learning](https://www.coursera.org/learn/supervised-learning/home/welcome) - started week 4.
-
 **Theory** : 
 
-From courses: Decision tree. Overfitting. Stopping criteria. Gini Index and Information Gain. 
+Decision tree. Overfitting. Stopping criteria. Gini Index and Information Gain. 
 
 [Half of the pandas chapter of "Python Data Science Handbook"](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.00-Introduction-to-Pandas.ipynb)
 
@@ -142,15 +107,11 @@ Checked all notebooks with grammlary :) Hope someone will read them XD
 
 ## Day 7 - 3 hours :
 
-**Courses and Lectures** :
-
-Yandex - [Supervised learning](https://www.coursera.org/learn/supervised-learning/home/welcome) - week 4.
-
 **Theory** : 
 
 Tree pruning. Random Forest. Ensemble methods: bagging, boosting and stacking.OOB.
 
-**Notebooks** :
+**Practice** :
 
 [Decision trees](https://colab.research.google.com/drive/1t35u2Vf88RpG-UVKW368FLQlkSPZN_DP),
 [Random forest](https://colab.research.google.com/drive/1FcLkZPbIF-do9TrS-nOudwETaR-NS9ze)
@@ -161,18 +122,22 @@ Tree pruning. Random Forest. Ensemble methods: bagging, boosting and stacking.OO
 
 ## Day 8 - 1 hour :
 
-**Courses and Lectures** :
-
-Yandex - [Supervised learning](https://www.coursera.org/learn/supervised-learning/home/welcome) - week 4, practice 1.
-
 **Practice** : 
 
 First practice from week 4 - decision trees, bagging and random forest.
-
-**Notebooks** :
 
 [Bagging and random forest](https://colab.research.google.com/drive/1UA6fSB1_edpchK3Y5yYv19KGtm6icw2y),
 
 **Other** :
 
 [Wonderful article about ensemble methods](https://towardsdatascience.com/ensemble-methods-bagging-boosting-and-stacking-c9214a10a205)
+
+## Day 9 - 1.5 hour :
+
+**Theory** : 
+
+More on gradient boosting. SGB. GB for classification and regression. GB for decision trees.
+
+**Practice** : 
+
+[Let's take a look at XGBoost](https://colab.research.google.com/drive/1k6vYhFmk8Zh029RcpcXv_6NKM3DaYiTP)
