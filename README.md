@@ -141,3 +141,9 @@ More on gradient boosting. SGB. GB for classification and regression. GB for dec
 **Practice** : 
 
 [Let's take a look at XGBoost](https://colab.research.google.com/drive/1k6vYhFmk8Zh029RcpcXv_6NKM3DaYiTP)
+
+## Day 10 - 1.5 hour :
+
+**Practice** : 
+
+[Finished week 4. Gradient boosting practice.](https://colab.research.google.com/drive/1qVHT21XzXJ00iMi7ZCjocQcTNZkmss64)
