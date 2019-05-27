@@ -120,7 +120,7 @@ Tree pruning. Random Forest. Ensemble methods: bagging, boosting and stacking.OO
 
 [Make your Pandas apply functions faster using Parallel Processing](https://towardsdatascience.com/make-your-own-super-pandas-using-multiproc-1c04f41944a1)
 
-## Day 8 - 1 hour :
+## Day 8 - 1 hours :
 
 **Practice** : 
 
@@ -132,7 +132,7 @@ First practice from week 4 - decision trees, bagging and random forest.
 
 [Wonderful article about ensemble methods](https://towardsdatascience.com/ensemble-methods-bagging-boosting-and-stacking-c9214a10a205)
 
-## Day 9 - 1.5 hour :
+## Day 9 - 1.5 hours :
 
 **Theory** : 
 
@@ -142,8 +142,17 @@ More on gradient boosting. SGB. GB for classification and regression. GB for dec
 
 [Let's take a look at XGBoost](https://colab.research.google.com/drive/1k6vYhFmk8Zh029RcpcXv_6NKM3DaYiTP)
 
-## Day 10 - 1.5 hour :
+## Day 10 - 1.5 hours :
 
 **Practice** : 
 
 [Finished week 4. Gradient boosting practice.](https://colab.research.google.com/drive/1qVHT21XzXJ00iMi7ZCjocQcTNZkmss64)
+
+
+## Day 11-12 - 6 hours :
+
+**Practice** : 
+
+3 tensorflow videos - [TensorFlow high-level APIs: Part 1 - loading data - YouTube](https://www.youtube.com/watch?v=oFFbKogYdfc)
+
+https://www.coursera.org/learn/introduction-tensorflow/home/welcome - whole course
