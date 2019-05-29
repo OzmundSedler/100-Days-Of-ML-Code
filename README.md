@@ -85,7 +85,7 @@ First practice from week 4 - decision trees, bagging and random forest.
 
 https://www.coursera.org/learn/introduction-tensorflow/home/welcome - whole course
 
-Finished [Pandas chapter of "Python Data Science Handbook"]
+Finished [Pandas chapter of "Python Data Science Handbook"](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.00-Introduction-to-Pandas.ipynb)
 
 Checked notebook about decesion trees and random forests from there (it was pretty simple):
 
