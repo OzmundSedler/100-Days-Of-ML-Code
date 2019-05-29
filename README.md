@@ -4,6 +4,8 @@ Hello world!
 
 First step — 2 big learning courses. I selected classic Stanford ML and Yandex ML specialization. I think I will translate collab notebooks with exercises in English if anybody will have an interest in them.
 
+My related knowledge stack — python, a basic level of SQL, basics of math analysis linear algebra, probability theory. All the stuff you would expect to learn in a tech university. I am halfway through the Andrew NG ML course and the second Yandex course in the ML and Data analytics specialization.
+
 #100DaysOfMLCode
 
 ## Week 1 - 21 hours :
