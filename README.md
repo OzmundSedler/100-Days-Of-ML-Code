@@ -116,4 +116,6 @@ Naive Bayes. Bayes' classifier with Maximum Likelihood Estimation. Bayes minimum
 
 **Other** : 
 
+[neural-network-forward-propagation-and-backpropagtion](https://towardsdatascience.com/coding-neural-network-forward-propagation-and-backpropagtion-ccf8cf369f76)
 
+[Hands-On Machine Learning with Scikit-Learn and TensorFlow book](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb) - Finished
