@@ -102,17 +102,21 @@ https://colab.research.google.com/drive/1OvgNn6dEQ7BSeC8NvKy4rFMtfTa1oLVU
 
 [Wonderful article about ensemble methods](https://towardsdatascience.com/ensemble-methods-bagging-boosting-and-stacking-c9214a10a205)
 
-## Week 3 (short one to start next one on Monday ) - 8 hours
+## Week 3 (short one to start next one on Monday ) - 12 hours
 
 **Theory** : 
 
-Naive Bayes. Bayes' classifier with Maximum Likelihood Estimation. Bayes minimum risk decision rule. 
+Naive Bayes. Bayes' classifier with Maximum Likelihood Estimation. Bayes minimum risk decision rule.
+
+KNN. Params and metrics in KNN. SVM, Kernel Trick; Mercer’s Theorem.
 
 **Practice** : 
 
 [Neural networks practice](https://colab.research.google.com/drive/1sjx1eiiVriHvpaS7trWov9EacTLDKYaz)
 
 [Naive bayes options](https://colab.research.google.com/drive/1hyriE27Q7Mkb5-VpfA_I4jiQon31ltIf)
+
+[KNN comparasion with random forest example](https://colab.research.google.com/drive/1CROYtKjQUCuIV1_iStJU-ghKSTyQS_aD)
 
 **Other** : 
 
