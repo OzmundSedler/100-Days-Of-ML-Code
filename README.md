@@ -126,7 +126,7 @@ KNN. Params and metrics in KNN. SVM, Kernel Trick; Mercer’s Theorem.
 
 ## Week 4
 
-## Day 1 
+## Day 1 - 1 hour
 
 **Theory** : 
 
