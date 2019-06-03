@@ -112,11 +112,11 @@ KNN. Params and metrics in KNN. SVM, Kernel Trick; Mercer’s Theorem.
 
 **Practice** : 
 
-[Neural networks practice](https://colab.research.google.com/drive/1sjx1eiiVriHvpaS7trWov9EacTLDKYaz)
+[Neural networks practice](https://colab.research.google.com/drive/1sjx1eiiVriHvpaS7trWov9EacTLDKYaz) - not translated!
 
-[Naive bayes options](https://colab.research.google.com/drive/1hyriE27Q7Mkb5-VpfA_I4jiQon31ltIf)
+[Event models of Naive Bayes](https://colab.research.google.com/drive/1hyriE27Q7Mkb5-VpfA_I4jiQon31ltIf)
 
-[KNN comparasion with random forest example](https://colab.research.google.com/drive/1CROYtKjQUCuIV1_iStJU-ghKSTyQS_aD)
+[KNN vs RF](https://colab.research.google.com/drive/1CROYtKjQUCuIV1_iStJU-ghKSTyQS_aD)
 
 **Other** : 
 
