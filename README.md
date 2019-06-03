@@ -123,3 +123,17 @@ KNN. Params and metrics in KNN. SVM, Kernel Trick; Mercer’s Theorem.
 [neural-network-forward-propagation-and-backpropagtion](https://towardsdatascience.com/coding-neural-network-forward-propagation-and-backpropagtion-ccf8cf369f76)
 
 [Hands-On Machine Learning with Scikit-Learn and TensorFlow book](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb) - Finished
+
+## Week 4
+
+## Day 1 
+
+**Theory** : 
+
+Started Andrew NG - 7. Large Margin Classification. Optimization Objective. Large margin intuition. Mathematics Behind Large Margin Classification.
+
+**Other** : 
+
+Translating older notebooks.
+
+[Siraj Raval - Mathematics for Beginners video](https://www.youtube.com/watch?v=sb_FI7nt4yk)
