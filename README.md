@@ -135,3 +135,18 @@ Started Andrew NG - 7. Large Margin Classification. Optimization Objective. Larg
 Translating older notebooks.
 
 [Siraj Raval - Mathematics for Beginners video](https://www.youtube.com/watch?v=sb_FI7nt4yk)
+
+## Day 2 - 1 hour
+
+**Theory** : 
+
+[SVM notebook](https://colab.research.google.com/drive/19gdFffFEzasKAoY1JmLnUtPhCq3D-yQ5) from the book
+
+**Other** : 
+
+A lot of articles about statistic.
+
+https://medium.com/diogo-menezes-borges/introduction-to-statistics-for-data-science-16a188a400ca
+https://towardsdatascience.com/statistics-is-the-grammar-of-data-science-part-1-c306cd02e4db
+https://towardsdatascience.com/the-5-basic-statistics-concepts-data-scientists-need-to-know-2c96740377ae
+https://towardsdatascience.com/probability-concepts-explained-maximum-likelihood-estimation-c7b4342fdbb1
