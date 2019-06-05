@@ -150,3 +150,9 @@ https://medium.com/diogo-menezes-borges/introduction-to-statistics-for-data-scie
 https://towardsdatascience.com/statistics-is-the-grammar-of-data-science-part-1-c306cd02e4db
 https://towardsdatascience.com/the-5-basic-statistics-concepts-data-scientists-need-to-know-2c96740377ae
 https://towardsdatascience.com/probability-concepts-explained-maximum-likelihood-estimation-c7b4342fdbb1
+
+## Day 3 - 1 hour
+
+**Theory** : 
+
+Kernels, more about math behind SVM.
