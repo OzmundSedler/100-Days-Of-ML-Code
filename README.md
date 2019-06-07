@@ -156,3 +156,17 @@ https://towardsdatascience.com/probability-concepts-explained-maximum-likelihood
 **Theory** : 
 
 Kernels, more about math behind SVM.
+
+## Day 4 - 1 hour
+
+**Practice** : 
+
+Started practice from Andrew NG week 7.
+
+## Day 5 - 1 hour
+
+**Practice** : 
+
+Finished practice from Andrew NG week 7.
+
+[SVM](https://colab.research.google.com/drive/1BZZjaOwEjI9WH8M_u2ZTQUEummw1q3Hf)
