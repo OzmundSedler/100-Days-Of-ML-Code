@@ -122,7 +122,7 @@ KNN. Params and metrics in KNN. SVM, Kernel Trick; Mercer’s Theorem.
 
 [neural-network-forward-propagation-and-backpropagtion](https://towardsdatascience.com/coding-neural-network-forward-propagation-and-backpropagtion-ccf8cf369f76)
 
-## Week 4 - 7 hours
+## Week 4 - 11 hours
 
 **Theory** : 
 
@@ -154,8 +154,16 @@ https://towardsdatascience.com/statistics-is-the-grammar-of-data-science-part-1-
 https://towardsdatascience.com/the-5-basic-statistics-concepts-data-scientists-need-to-know-2c96740377ae
 https://towardsdatascience.com/probability-concepts-explained-maximum-likelihood-estimation-c7b4342fdbb1
 
-## Week 5
+## Week 5 - 5 hours
 
-## Day 1 - 1 hour
+**Theory** : 
 
-Practicing k-means and em for text clustering. 
+Practicing k-means and em for text clustering. More on K-means and EM theory. Agglomerative Hierarchical Clustering, dendograms. SDG and PCA. Density-based methods. DBSCAN. Silhoette analysis. 
+
+**Practice** : 
+
+Example of clustering tasks for a company - [Banners](https://colab.research.google.com/drive/16QMB94dp4EB4jEiQPaqW5jVuV6bwUN9-)
+
+**Other** : 
+
+Translating older notebooks.
