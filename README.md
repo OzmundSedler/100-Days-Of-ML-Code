@@ -122,16 +122,40 @@ KNN. Params and metrics in KNN. SVM, Kernel Trick; Mercer’s Theorem.
 
 [neural-network-forward-propagation-and-backpropagtion](https://towardsdatascience.com/coding-neural-network-forward-propagation-and-backpropagtion-ccf8cf369f76)
 
-## Week 4
-
-## Day 1 - 1 hour
+## Week 4 - 7 hours
 
 **Theory** : 
 
 Started Andrew NG - 7. Large Margin Classification. Optimization Objective. Large margin intuition. Mathematics Behind Large Margin Classification.
+
+[SVM notebook](https://colab.research.google.com/drive/19gdFffFEzasKAoY1JmLnUtPhCq3D-yQ5) from the book
+
+Kernels, more about math behind SVM.
+
+Clustering with K-Means and EM. K-means and Mixtures of Gaussians
+
+
+**Practice** : 
+
+Finished practice from Andrew NG week 7.
+
+[SVM](https://colab.research.google.com/drive/1BZZjaOwEjI9WH8M_u2ZTQUEummw1q3Hf)
 
 **Other** : 
 
 Translating older notebooks.
 
 [Siraj Raval - Mathematics for Beginners video](https://www.youtube.com/watch?v=sb_FI7nt4yk)
+
+A lot of articles about statistic.
+
+https://medium.com/diogo-menezes-borges/introduction-to-statistics-for-data-science-16a188a400ca
+https://towardsdatascience.com/statistics-is-the-grammar-of-data-science-part-1-c306cd02e4db
+https://towardsdatascience.com/the-5-basic-statistics-concepts-data-scientists-need-to-know-2c96740377ae
+https://towardsdatascience.com/probability-concepts-explained-maximum-likelihood-estimation-c7b4342fdbb1
+
+## Week 5
+
+## Day 1 - 1 hour
+
+Practicing k-means and em for text clustering. 
