@@ -154,11 +154,13 @@ https://towardsdatascience.com/statistics-is-the-grammar-of-data-science-part-1-
 https://towardsdatascience.com/the-5-basic-statistics-concepts-data-scientists-need-to-know-2c96740377ae
 https://towardsdatascience.com/probability-concepts-explained-maximum-likelihood-estimation-c7b4342fdbb1
 
-## Week 5 - 5 hours
+## Week 5 - 7 hours
 
 **Theory** : 
 
 Practicing k-means and em for text clustering. More on K-means and EM theory. Agglomerative Hierarchical Clustering, dendograms. SDG and PCA. Density-based methods. DBSCAN. Silhoette analysis. 
+
+Andrew NG, week 8. Data compression, Vizualization. PCA problem formulation, alghorithm.
 
 **Practice** : 
 
