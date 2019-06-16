@@ -154,7 +154,7 @@ https://towardsdatascience.com/statistics-is-the-grammar-of-data-science-part-1-
 https://towardsdatascience.com/the-5-basic-statistics-concepts-data-scientists-need-to-know-2c96740377ae
 https://towardsdatascience.com/probability-concepts-explained-maximum-likelihood-estimation-c7b4342fdbb1
 
-## Week 5 - 7 hours
+## Week 5 - 10 hours
 
 **Theory** : 
 
@@ -164,7 +164,19 @@ Andrew NG, week 8. Data compression, Vizualization. PCA problem formulation, alg
 
 **Practice** : 
 
+Finished practices from Andrew NG and Yandex weeks:
+
 Example of clustering tasks for a company - [Banners](https://colab.research.google.com/drive/16QMB94dp4EB4jEiQPaqW5jVuV6bwUN9-)
+
+[SVM](https://colab.research.google.com/drive/1BZZjaOwEjI9WH8M_u2ZTQUEummw1q3Hf)
+
+[K-means and PCA](https://colab.research.google.com/drive/1NN23kLE0Pe5XZqzX_HpLCGVSTPRT8dti)
+
+2 notebooks from the Big Book to rule them all:
+
+[Wonderful notebook about PCA](https://colab.research.google.com/drive/17GArLecx5R8GJto6zfDOwQiBMvRgrhLh)
+
+[K-means once again](https://colab.research.google.com/drive/170KIxk9u6x6pY08NH9vaswnMc9bUBAWR)
 
 **Other** : 
 
