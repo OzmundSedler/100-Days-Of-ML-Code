@@ -154,7 +154,7 @@ https://towardsdatascience.com/statistics-is-the-grammar-of-data-science-part-1-
 https://towardsdatascience.com/the-5-basic-statistics-concepts-data-scientists-need-to-know-2c96740377ae
 https://towardsdatascience.com/probability-concepts-explained-maximum-likelihood-estimation-c7b4342fdbb1
 
-## Week 5 - 10 hours
+## Week 5 - 14 hours
 
 **Theory** : 
 
@@ -181,3 +181,14 @@ Example of clustering tasks for a company - [Banners](https://colab.research.goo
 **Other** : 
 
 Translating older notebooks.
+
+## Week 6
+
+### Day 1 - 2 hours
+
+[In-Depth: Manifold Learning](https://colab.research.google.com/drive/1evSSu29GPUZGlFg1gKDJd4oCLM2f6hcc)
+
+[Gaussian Mixture Models](https://colab.research.google.com/drive/12Tocpu3awHMjbCRT3ff7-4BUnKpWLBWN)
+Akaike information criterion, Bayesian information criterion
+
+[Kernel Density Estimation](https://colab.research.google.com/drive/1rn2wY_PSlw7bL0mHZhU4t5YjPn-tKJgM)
