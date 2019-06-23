@@ -182,9 +182,15 @@ Example of clustering tasks for a company - [Banners](https://colab.research.goo
 
 Translating older notebooks.
 
-## Week 6
+## Week 6 - 10 hours
 
-### Day 1 - 2 hours
+**Theory** : 
+
+A lot of it. Yandex, week 2. Finished Python Data Science Handbook.
+
+Dimensionality reduction and feature selection. One-dimensional FS. Greedy FS methods. Model-based FS. Dimensionality reduction. PCA. Matrix decomposition. SGD and ALS. Probabilistic look on Matrix decomposition.
+
+**Practice** : 
 
 [In-Depth: Manifold Learning](https://colab.research.google.com/drive/1evSSu29GPUZGlFg1gKDJd4oCLM2f6hcc)
 
@@ -192,3 +198,19 @@ Translating older notebooks.
 Akaike information criterion, Bayesian information criterion
 
 [Kernel Density Estimation](https://colab.research.google.com/drive/1rn2wY_PSlw7bL0mHZhU4t5YjPn-tKJgM)
+
+[Face recognition with SVM](https://colab.research.google.com/drive/1UOcnP2t-MCRcUAhh8mc2G9ZnCSsTqT6r)
+
+[Yandex week practice task - PCA] (https://colab.research.google.com/drive/1C1mzq6gbbnxso4fum4WxOEOV-8qrNkms)
+
+**Other** : 
+
+Watched some PyData videos, Read a lot - KDnuggets, medium.
+
+[I don’t like notebooks.- Joel Grus (Allen Institute for Artificial Intelligence) - YouTube](https://www.youtube.com/watch?v=7jiPeIFXb6U)
+
+[How to Build a Healthcare Startup](https://www.youtube.com/watch?v=b8xlCNzkX5w)
+
+[Zachariah Miller: The necessity of pipelines in Natural Language Processing | PyData Miami 2019](https://www.youtube.com/watch?v=SG6jdlBx_vQ)
+
+A couple of videos about Jupiter Lab.
