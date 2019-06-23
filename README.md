@@ -201,7 +201,7 @@ Akaike information criterion, Bayesian information criterion
 
 [Face recognition with SVM](https://colab.research.google.com/drive/1UOcnP2t-MCRcUAhh8mc2G9ZnCSsTqT6r)
 
-[Yandex week practice task - PCA] (https://colab.research.google.com/drive/1C1mzq6gbbnxso4fum4WxOEOV-8qrNkms)
+[Yandex week practice task - PCA](https://colab.research.google.com/drive/1C1mzq6gbbnxso4fum4WxOEOV-8qrNkms)
 
 **Other** : 
 
