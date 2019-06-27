@@ -214,3 +214,24 @@ Watched some PyData videos, Read a lot - KDnuggets, medium.
 [Zachariah Miller: The necessity of pipelines in Natural Language Processing | PyData Miami 2019](https://www.youtube.com/watch?v=SG6jdlBx_vQ)
 
 A couple of videos about Jupiter Lab.
+
+
+## Week 7
+
+### Day 1-2 - 4 hours (estimated time of listening ML talks)
+
+Was on https://pycon.ru/2019/en/.
+
+### Day 3 - 1 hour
+
+**Theory** : 
+
+Anomaly Detection.  Unsupervised Anomaly Detection Algorithms. Parametric and non-parametric approaches. SVM for anomaly detection.
+
+**Other** : 
+
+[Top 10 Statistics Mistakes Made by Data Scientists – Towards Data Science](https://towardsdatascience.com/top-10-statistics-mistakes-made-by-data-scientists-2d58ccf12ab1)
+
+[What 70% of Data Science Learners Do Wrong – Towards Data Science](https://towardsdatascience.com/what-70-of-data-science-learners-do-wrong-ac35326219e4)
+
+[5 Useful Statistics Data Scientists Need to Know](https://www.kdnuggets.com/2019/06/statistics-data-scientists-know.html)
