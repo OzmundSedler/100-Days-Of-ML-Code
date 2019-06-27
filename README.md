@@ -220,7 +220,7 @@ A couple of videos about Jupiter Lab.
 
 ### Day 1-2 - 4 hours (estimated time of listening ML talks)
 
-Was on https://pycon.ru/2019/en/.
+Was on https://pycon.ru/2019/en/ conference.
 
 ### Day 3 - 1 hour
 
