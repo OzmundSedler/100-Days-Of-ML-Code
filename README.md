@@ -222,7 +222,7 @@ A couple of videos about Jupiter Lab.
 
 Was on https://pycon.ru/2019/en/ conference.
 
-### Day 3 - 1 hour
+### Day 3-4 - 2 hour
 
 **Theory** : 
 
@@ -235,3 +235,14 @@ Anomaly Detection.  Unsupervised Anomaly Detection Algorithms. Parametric and no
 [What 70% of Data Science Learners Do Wrong – Towards Data Science](https://towardsdatascience.com/what-70-of-data-science-learners-do-wrong-ac35326219e4)
 
 [5 Useful Statistics Data Scientists Need to Know](https://www.kdnuggets.com/2019/06/statistics-data-scientists-know.html)
+
+### Day 5 - 1.5 hour
+
+**Theory** : 
+
+Data vizualization. Multiple scaling. t-SNE. 
+
+**Practice** : 
+
+[Data vizualization](https://colab.research.google.com/drive/1SlznaxmNIHxLFNAdC9w9yQDijP8FcIes)
+
