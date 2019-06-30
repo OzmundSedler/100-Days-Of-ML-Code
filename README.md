@@ -216,17 +216,25 @@ Watched some PyData videos, Read a lot - KDnuggets, medium.
 A couple of videos about Jupiter Lab.
 
 
-## Week 7
-
-### Day 1-2 - 4 hours (estimated time of listening ML talks)
-
-Was on https://pycon.ru/2019/en/ conference.
-
-### Day 3-4 - 2 hour
+## Week 7 - 10 hours
 
 **Theory** : 
 
-Anomaly Detection.  Unsupervised Anomaly Detection Algorithms. Parametric and non-parametric approaches. SVM for anomaly detection.
+Was on https://pycon.ru/2019/en/ conference.
+
+Data vizualization. Multiple scaling. t-SNE. 
+
+Anomaly Detection. Unsupervised Anomaly Detection Algorithms. Parametric and non-parametric approaches. SVM for anomaly detection.
+
+Density Estimation. Building an Anomaly Detection System. Anomaly detection vs supervised learning.Choosing features.
+
+
+**Practice** : 
+
+[Data vizualization](https://colab.research.google.com/drive/1SlznaxmNIHxLFNAdC9w9yQDijP8FcIes)
+
+[VisualizationPeerReview practice](https://colab.research.google.com/drive/1j_1MlcBv7eyOYUilzqEv9AZynz5uPb0K)
+
 
 **Other** : 
 
@@ -235,14 +243,3 @@ Anomaly Detection.  Unsupervised Anomaly Detection Algorithms. Parametric and no
 [What 70% of Data Science Learners Do Wrong – Towards Data Science](https://towardsdatascience.com/what-70-of-data-science-learners-do-wrong-ac35326219e4)
 
 [5 Useful Statistics Data Scientists Need to Know](https://www.kdnuggets.com/2019/06/statistics-data-scientists-know.html)
-
-### Day 5 - 1.5 hour
-
-**Theory** : 
-
-Data vizualization. Multiple scaling. t-SNE. 
-
-**Practice** : 
-
-[Data vizualization](https://colab.research.google.com/drive/1SlznaxmNIHxLFNAdC9w9yQDijP8FcIes)
-
