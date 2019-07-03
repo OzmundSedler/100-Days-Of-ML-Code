@@ -259,11 +259,14 @@ Multivariate Gaussian Distribution. Anomaly Detection using the Multivariate Gau
 
 Vectorization: Low Rank Matrix Factorization. Implementational Detail: Mean Normalization. Started last practice exercise.
 
-### Day 3 - 1.5 hours
+### Day 3 - 2 hours
 
 **Practice** : 
 
 [Last Andrew NG Course exercise - Anomaly Detection and Recommender Systems](https://colab.research.google.com/drive/1qgLaZMQNInt_24CCePtzYQoOAv_07P09)
 
+**Other** : 
 
+https://towardsdatascience.com/how-to-effortlessly-optimize-jupyter-notebooks-e864162a06ee - why i havent read it earlier? -_-
 
+https://towardsdatascience.com/natural-language-processing-from-basics-to-using-rnn-and-lstm-ef6779e4ae66 - great short review of NLP methods
