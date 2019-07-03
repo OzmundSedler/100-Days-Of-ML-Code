@@ -243,3 +243,27 @@ Density Estimation. Building an Anomaly Detection System. Anomaly detection vs s
 [What 70% of Data Science Learners Do Wrong – Towards Data Science](https://towardsdatascience.com/what-70-of-data-science-learners-do-wrong-ac35326219e4)
 
 [5 Useful Statistics Data Scientists Need to Know](https://www.kdnuggets.com/2019/06/statistics-data-scientists-know.html)
+
+
+## Week 8
+
+### Day 1 - 2 hour
+
+**Theory** : 
+
+Multivariate Gaussian Distribution. Anomaly Detection using the Multivariate Gaussian Distribution. Predictiing movie ratings - Problem Formulation. Content Based Recommendations. Collaborative Filtering Algorithm. 
+
+### Day 2 - 1 hour
+
+**Theory** : 
+
+Vectorization: Low Rank Matrix Factorization. Implementational Detail: Mean Normalization. Started last practice exercise.
+
+### Day 3 - 1.5 hours
+
+**Practice** : 
+
+[Last Andrew NG Course exercise - Anomaly Detection and Recommender Systems](https://colab.research.google.com/drive/1qgLaZMQNInt_24CCePtzYQoOAv_07P09)
+
+
+
