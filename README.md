@@ -267,6 +267,18 @@ Vectorization: Low Rank Matrix Factorization. Implementational Detail: Mean Norm
 
 **Other** : 
 
-https://towardsdatascience.com/how-to-effortlessly-optimize-jupyter-notebooks-e864162a06ee - why i havent read it earlier? -_-
-
 https://towardsdatascience.com/natural-language-processing-from-basics-to-using-rnn-and-lstm-ef6779e4ae66 - great short review of NLP methods
+
+### Day 4 - 1.5 hours
+
+**Theory** : 
+
+Week 10 of Andrew NG - Gradient Descent with Large Datasets. Learning With Large Datasets. Stochastic Gradient Descent. Mini-Batch Gradient Descent. Stochastic Gradient Descent Convergence. Online Learning. Map Reduce and Data Parallelism.
+
+**Other** : 
+
+Some articles about google collab:
+https://towardsdatascience.com/google-colab-59ad8510eb7e
+https://medium.com/@burakteke/tutorial-on-using-google-colab-for-kaggle-competition-620393c22821
+
+https://colab.research.google.com/notebooks/io.ipynb - great notebook about working with External data: Local Files, Drive, Sheets, and Cloud Storage in collab
