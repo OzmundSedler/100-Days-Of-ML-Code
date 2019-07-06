@@ -8,6 +8,8 @@ My related knowledge stack — python, a basic level of SQL, basics of math 
 
 #100DaysOfMLCode
 
+## Month 1 total: 59 hours.
+
 ## Week 1 - 21 hours :
 
 **Theory** : 
@@ -154,6 +156,8 @@ https://towardsdatascience.com/statistics-is-the-grammar-of-data-science-part-1-
 https://towardsdatascience.com/the-5-basic-statistics-concepts-data-scientists-need-to-know-2c96740377ae
 https://towardsdatascience.com/probability-concepts-explained-maximum-likelihood-estimation-c7b4342fdbb1
 
+## Month 2 total: 45 hours.
+
 ## Week 5 - 14 hours
 
 **Theory** : 
@@ -245,21 +249,20 @@ Density Estimation. Building an Anomaly Detection System. Anomaly detection vs s
 [5 Useful Statistics Data Scientists Need to Know](https://www.kdnuggets.com/2019/06/statistics-data-scientists-know.html)
 
 
-## Week 8
-
-### Day 1 - 2 hour
+## Week 8 - 11 hours
 
 **Theory** : 
 
 Multivariate Gaussian Distribution. Anomaly Detection using the Multivariate Gaussian Distribution. Predictiing movie ratings - Problem Formulation. Content Based Recommendations. Collaborative Filtering Algorithm. 
 
-### Day 2 - 1 hour
-
-**Theory** : 
-
 Vectorization: Low Rank Matrix Factorization. Implementational Detail: Mean Normalization. Started last practice exercise.
 
-### Day 3 - 2 hours
+Week 10 of Stanford's ML Gradient Descent with Large Datasets. Learning With Large Datasets. Stochastic Gradient Descent. Mini-Batch Gradient Descent. Stochastic Gradient Descent Convergence. Online Learning. Map Reduce and Data Parallelism.
+
+#### Finished [Stanford ML Course](https://www.coursera.org/learn/machine-learning/home/info) 
+Week 11 - Problem Description and Pipeline. Sliding Windows. Geting Lots of Data and Artificial Data. Ceiling Analysis. Photo OCR.
+
+Topic modeling in texts. Topic modeling problem statement. Algorithm of topic modeling. Regularized EM-algorithm. Bayes LDA. Non-bayes LDA. Kullback-Leibler divergence. Regularization in topic modeling. Additive Regularization of Topic Models. 
 
 **Practice** : 
 
@@ -269,29 +272,8 @@ Vectorization: Low Rank Matrix Factorization. Implementational Detail: Mean Norm
 
 https://towardsdatascience.com/natural-language-processing-from-basics-to-using-rnn-and-lstm-ef6779e4ae66 - great short review of NLP methods
 
-### Day 4 - 1.5 hour
-
-**Theory** : 
-
-Week 10 of Stanford's ML Gradient Descent with Large Datasets. Learning With Large Datasets. Stochastic Gradient Descent. Mini-Batch Gradient Descent. Stochastic Gradient Descent Convergence. Online Learning. Map Reduce and Data Parallelism.
-
-**Other** : 
-
 Some articles about google collab:
 https://towardsdatascience.com/google-colab-59ad8510eb7e
 https://medium.com/@burakteke/tutorial-on-using-google-colab-for-kaggle-competition-620393c22821
 
 https://colab.research.google.com/notebooks/io.ipynb - great notebook about working with External data: Local Files, Drive, Sheets, and Cloud Storage in collab
-
-### Day 5 - 1 hour
-
-**Theory** : 
-
-#### Finished [Stanford ML Course](https://www.coursera.org/learn/machine-learning/home/info) 
-Week 11 - Problem Description and Pipeline. Sliding Windows. Geting Lots of Data and Artificial Data. Ceiling Analysis. Photo OCR.
-
-### Day 6 - 1.5 hour
-
-**Theory** : 
-
-Topic modeling in texts. Topic modeling problem statement. Algorithm of topic modeling. Regularized EM-algorithm. Bayes LDA. Non-bayes LDA. Kullback-Leibler divergence. Regularization in topic modeling. Additive Regularization of Topic Models. 
