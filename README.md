@@ -287,7 +287,7 @@ https://colab.research.google.com/notebooks/io.ipynb - great notebook about work
 
 **Theory** : 
 
-#### Finished (Stanford ML Course)[https://www.coursera.org/learn/machine-learning/home/info] 
+#### Finished [Stanford ML Course](https://www.coursera.org/learn/machine-learning/home/info) 
 Week 11 - Problem Description and Pipeline. Sliding Windows. Geting Lots of Data and Artificial Data. Ceiling Analysis. Photo OCR.
 
 ### Day 6 - 1.5 hour
