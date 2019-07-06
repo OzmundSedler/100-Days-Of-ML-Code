@@ -277,3 +277,8 @@ https://towardsdatascience.com/google-colab-59ad8510eb7e
 https://medium.com/@burakteke/tutorial-on-using-google-colab-for-kaggle-competition-620393c22821
 
 https://colab.research.google.com/notebooks/io.ipynb - great notebook about working with External data: Local Files, Drive, Sheets, and Cloud Storage in collab
+
+## Week 9 (5 days)
+
+## Vacation break until the end of July.
+ I will be in Italy, have plans to finalize all that I learned so far. Will ranslate all notebooks in English and maybe write 1-3 articles for Towards Data Science on Medium.
