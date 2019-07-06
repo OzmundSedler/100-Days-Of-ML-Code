@@ -8,7 +8,7 @@ My related knowledge stack — python, a basic level of SQL, basics of math 
 
 #100DaysOfMLCode
 
-## Month 1 total: 59 hours.
+## Month 1 total: 59 hours
 
 ## Week 1 - 21 hours :
 
@@ -156,7 +156,7 @@ https://towardsdatascience.com/statistics-is-the-grammar-of-data-science-part-1-
 https://towardsdatascience.com/the-5-basic-statistics-concepts-data-scientists-need-to-know-2c96740377ae
 https://towardsdatascience.com/probability-concepts-explained-maximum-likelihood-estimation-c7b4342fdbb1
 
-## Month 2 total: 45 hours.
+## Month 2 total: 45 hours
 
 ## Week 5 - 14 hours
 
