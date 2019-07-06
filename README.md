@@ -269,11 +269,11 @@ Vectorization: Low Rank Matrix Factorization. Implementational Detail: Mean Norm
 
 https://towardsdatascience.com/natural-language-processing-from-basics-to-using-rnn-and-lstm-ef6779e4ae66 - great short review of NLP methods
 
-### Day 4 - 1.5 hours
+### Day 4 - 1.5 hour
 
 **Theory** : 
 
-Week 10 of Andrew NG - Gradient Descent with Large Datasets. Learning With Large Datasets. Stochastic Gradient Descent. Mini-Batch Gradient Descent. Stochastic Gradient Descent Convergence. Online Learning. Map Reduce and Data Parallelism.
+Week 10 of Stanford's ML Gradient Descent with Large Datasets. Learning With Large Datasets. Stochastic Gradient Descent. Mini-Batch Gradient Descent. Stochastic Gradient Descent Convergence. Online Learning. Map Reduce and Data Parallelism.
 
 **Other** : 
 
@@ -282,3 +282,16 @@ https://towardsdatascience.com/google-colab-59ad8510eb7e
 https://medium.com/@burakteke/tutorial-on-using-google-colab-for-kaggle-competition-620393c22821
 
 https://colab.research.google.com/notebooks/io.ipynb - great notebook about working with External data: Local Files, Drive, Sheets, and Cloud Storage in collab
+
+### Day 5 - 1 hour
+
+**Theory** : 
+
+#### Finished (Stanford ML Course)[https://www.coursera.org/learn/machine-learning/home/info] 
+Week 11 - Problem Description and Pipeline. Sliding Windows. Geting Lots of Data and Artificial Data. Ceiling Analysis. Photo OCR.
+
+### Day 6 - 1.5 hour
+
+**Theory** : 
+
+Topic modeling in texts. Topic modeling problem statement. Algorithm of topic modeling. Regularized EM-algorithm. Bayes LDA. Non-bayes LDA. Kullback-Leibler divergence. Regularization in topic modeling. Additive Regularization of Topic Models. 
