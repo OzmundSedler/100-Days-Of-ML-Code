@@ -281,4 +281,4 @@ https://colab.research.google.com/notebooks/io.ipynb - great notebook about work
 ## Week 9 (5 days)
 
 ## Vacation break until the end of July
-I decided to take a break from the challenge for the time I will be on vacation. Tho, I have plans to finalize all that I learned so far. Will translate all notebooks in English and maybe write 1-3 articles for Towards Data Science on Medium. And starting from August I am planning to continue my journey ^_^
+I decided to take a break from the challenge for the time I will be on vacation. Tho, I have plans to finalize all that I learned so far and translate all notebooks in English. And starting from August I am planning to continue my journey ^_^
