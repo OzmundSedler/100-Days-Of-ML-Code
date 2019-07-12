@@ -280,5 +280,13 @@ https://colab.research.google.com/notebooks/io.ipynb - great notebook about work
 
 ## Week 9 (5 days)
 
+**Theory** : 
+
+Topic modeling. Basic assumptions of simple topic models. The task of topic modeling as a matrix decomposition problem. Basic topic modeling models and EM-algorithm. Bayes LDA. Non bayes LDA. ARTM. Model metrics of quality - perplexity, hold-out perplexity, coherence. 
+
+**Practice** :
+
+2 notebooks on LDA and BigARTM lib waiting to be trenslated in english :)
+
 ## Vacation break until the end of July
 I decided to take a break from the challenge for the time I will be on vacation. Tho, I have plans to finalize all that I learned so far and translate all notebooks in English. And starting from August I am planning to continue my journey ^_^
