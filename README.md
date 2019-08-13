@@ -296,7 +296,7 @@ I decided to take a break from the challenge for the time I will be on vacation.
 ## One week after vacation has already passed. Of course i havent learned anything during the trip across the Italy (there were some things to do). So the plan for now is to refresh everything i've learned so far and start the second part of the journey !
 
 ## Week 9.2 (5 days)
-### Week 9 is devided by 3 weeks and the second part is totally tributed to just refresh everythin that i've learned so far. So, i decided not to declare it as week 10, but as second part of week 9. 
+### Week 9 is devided by 3 weeks and the second part of it is tributed to just refresh everything that i've learned so far. So, i decided not to declare it as week 10, but as the second part of week 9. 
 
 **Theory** : 
 
