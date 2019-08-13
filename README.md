@@ -290,3 +290,7 @@ Topic modeling. Basic assumptions of simple topic models. The task of topic mode
 
 ## Vacation break until the end of July
 I decided to take a break from the challenge for the time I will be on vacation. Tho, I have plans to finalize all that I learned so far and translate all notebooks in English. And starting from August I am planning to continue my journey ^_^
+
+
+# Aaaaaaaaaaand I am back :) 
+## One week after vacation has already passed. Of course i havent learned anything during the trip across the Italy (there were some things to do). So the plan for now is to refresh everything i've learned so far and start the second part of the journey !
