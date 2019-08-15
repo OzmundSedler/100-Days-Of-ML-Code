@@ -300,7 +300,12 @@ I decided to take a break from the challenge for the time I will be on vacation.
 
 **Theory** : 
 
-Refrshed Andrew NG - course.
+Repeated Andrew NG course.
+Repeated Yandex course.
+
+**Practice** : 
+
+Repeated all notebooks above.
 
 **Other**
 
