@@ -278,7 +278,39 @@ https://medium.com/@burakteke/tutorial-on-using-google-colab-for-kaggle-competit
 
 https://colab.research.google.com/notebooks/io.ipynb - great notebook about working with External data: Local Files, Drive, Sheets, and Cloud Storage in collab
 
-## Week 9 (5 days)
+## Week 9.1 (5 days)
 
-## Vacation break until the end of July
+**Theory** : 
+
+Topic modeling. Basic assumptions of simple topic models. The task of topic modeling as a matrix decomposition problem. Basic topic modeling models and EM-algorithm. Bayes LDA. Non bayes LDA. ARTM. Model metrics of quality - perplexity, hold-out perplexity, coherence. 
+
+**Practice** :
+
+2 notebooks on LDA and BigARTM lib waiting to be trenslated in english :)
+
+# Vacation break until the end of July
 I decided to take a break from the challenge for the time I will be on vacation. Tho, I have plans to finalize all that I learned so far and translate all notebooks in English. And starting from August I am planning to continue my journey ^_^
+
+
+# Aaaaaaaaaaand I am back :) 
+## One week after vacation has already passed. Of course i havent learned anything during the trip across the Italy (there were some things to do). So the plan for now is to refresh everything i've learned so far and start the second part of the journey !
+
+## Week 9.2 (5 days)
+### Week 9 is devided by 3 weeks and the second part of it is tributed to just refresh everything that i've learned so far. So, i decided not to declare it as week 10, but as the second part of week 9. 
+
+**Theory** : 
+
+Repeated Andrew NG course.
+Repeated Yandex course.
+
+**Practice** : 
+
+Repeated all notebooks above.
+
+**Other**
+
+The following KDnuggets Top 10 list highlights the most active and popular podcasts so far in 2019 that feature data science and machine learning conversations. https://www.kdnuggets.com/2019/07/best-podcasts-ai-analytics-data-science-machine-learning.html
+
+https://www.kdnuggets.com/2019/08/what-data-science-learners-do-wrong.html
+
+https://www.kdnuggets.com/2019/06/random-forest-vs-neural-network.html
