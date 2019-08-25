@@ -314,3 +314,33 @@ The following KDnuggets Top 10 list highlights the most active and popular podca
 https://www.kdnuggets.com/2019/08/what-data-science-learners-do-wrong.html
 
 https://www.kdnuggets.com/2019/06/random-forest-vs-neural-network.html
+
+## Week 10 - 7 hours
+
+**Theory** : 
+
+Sarted statistics course. Disributions. Quantile. Confidence interval. Confidence Interval for a Population Mean. Confidence interval for a proportion, 2 (in)dependant proportions. Bootstrap Confidence Intervals. Null Hypothesis. Type I and type II errors. p-value. Connection between hypothesis checking and confidence intervals. Pearson’s Correlation. 
+
+**Practice** : 
+
+[Confidence Interval for a Population Mean](https://colab.research.google.com/drive/1WzvykK2JYX4g3Kd5rMCrsA0vPJM7Zfwr)
+[Confidence Interval for a proportion](https://colab.research.google.com/drive/1YiN5u-UkHk8a0LEPJlUOS8H1xDQkgrbz)
+[Confidence interval for 2 proportions](https://colab.research.google.com/drive/1QGhPeEpSm2WJZNhWNXOT92O6hC-xm84I)
+[Bootstrap Confidence Intervals](https://colab.research.google.com/drive/1LhhA-wlHdpwY4T6UZ1qrYmfxsj_TFTLc)
+[Binominal test for a sample](https://colab.research.google.com/drive/1lSBcz8_gw4cEqQftkOIOLQfZkqW_duHn)
+[Confidence Intervals for Pearson’s Correlation](https://colab.research.google.com/drive/16n0VICdZeLnrF5WPz-7UwxyT6KFT2LVA)
+
+[Confidence interval practice](https://colab.research.google.com/drive/1_h8J4dEEFEhGYN6pxLjIRm2lJ5l-Cnvw)
+
+**Other**
+
+https://www.statisticshowto.datasciencecentral.com/probability-and-statistics/confidence-interval/
+https://cran.r-project.org/web/packages/dabestr/vignettes/bootstrap-confidence-intervals.html
+
+https://medium.com/@Nithanaroy/3-ways-to-design-affective-classes-in-ml-classification-algorithms-57a302e5397b
+https://towardsdatascience.com/p-values-explained-by-data-scientist-f40a746cfc8
+https://www.kdnuggets.com/2019/06/statistics-mistakes-data-scientists.html
+https://towardsdatascience.com/3-strategies-to-guarantee-a-data-science-job-with-no-experience-68d85b345f21
+https://towardsdatascience.com/data-scientists-the-five-graph-algorithms-that-you-should-know-30f454fa5513
+
+
