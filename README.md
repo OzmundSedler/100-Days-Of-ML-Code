@@ -324,10 +324,15 @@ Sarted statistics course. Disributions. Quantile. Confidence interval. Confidenc
 **Practice** : 
 
 [Confidence Interval for a Population Mean](https://colab.research.google.com/drive/1WzvykK2JYX4g3Kd5rMCrsA0vPJM7Zfwr)
+
 [Confidence Interval for a proportion](https://colab.research.google.com/drive/1YiN5u-UkHk8a0LEPJlUOS8H1xDQkgrbz)
+
 [Confidence interval for 2 proportions](https://colab.research.google.com/drive/1QGhPeEpSm2WJZNhWNXOT92O6hC-xm84I)
+
 [Bootstrap Confidence Intervals](https://colab.research.google.com/drive/1LhhA-wlHdpwY4T6UZ1qrYmfxsj_TFTLc)
+
 [Binominal test for a sample](https://colab.research.google.com/drive/1lSBcz8_gw4cEqQftkOIOLQfZkqW_duHn)
+
 [Confidence Intervals for Pearson’s Correlation](https://colab.research.google.com/drive/16n0VICdZeLnrF5WPz-7UwxyT6KFT2LVA)
 
 [Confidence interval practice](https://colab.research.google.com/drive/1_h8J4dEEFEhGYN6pxLjIRm2lJ5l-Cnvw)
