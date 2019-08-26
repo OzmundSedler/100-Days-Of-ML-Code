@@ -349,3 +349,20 @@ https://towardsdatascience.com/3-strategies-to-guarantee-a-data-science-job-with
 https://towardsdatascience.com/data-scientists-the-five-graph-algorithms-that-you-should-know-30f454fa5513
 
 
+## Week 11
+
+## Day 1 - 2 hours
+
+**Theory** : 
+
+More work on statistics - same topics, some calculations on paper to better understand it. 
+
+A/B testing. Conditions, Metrics. How to create groups e.t.c. Experiment design. A/A testing.  
+
+**Practice** : 
+
+Installed jupyter lab -> will try it.
+
+**Other**
+
+Started Practically Cheating Statistics Handbook
