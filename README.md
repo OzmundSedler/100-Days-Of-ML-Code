@@ -366,3 +366,20 @@ Installed jupyter lab -> will try it.
 **Other**
 
 Started Practically Cheating Statistics Handbook
+
+
+## Day 2-3 - 3 hours
+
+**Theory** : 
+
+Student's tests, p-value, T-Score vs. Z-Score e.t.c. One- and two-tailed tests. Shapiro–Wilk test. 
+
+**Practice** : 
+
+[Student's test 1](https://colab.research.google.com/drive/1y87zgFan234idjXPOW5cEUlrWpkPNr2Q)
+[Student's test 2](https://colab.research.google.com/drive/1gKQhnz5nIafDvWvAq00jKwxSJJkMZRNU)
+
+**Other**
+
+https://en.wikipedia.org/wiki/One-_and_two-tailed_tests
+https://en.wikipedia.org/wiki/Shapiro%E2%80%93Wilk_test
