@@ -385,3 +385,7 @@ Student's tests, p-value, T-Score vs. Z-Score e.t.c. One- and two-tailed tests. 
 https://en.wikipedia.org/wiki/One-_and_two-tailed_tests
 
 https://en.wikipedia.org/wiki/Shapiro%E2%80%93Wilk_test
+
+## Day 4 - 1.5 hours
+
+[Z-test for 2 proportions](https://colab.research.google.com/drive/1EYgTZj6TZqMglNuIiTVcxcDh0yC-Jk3V)
