@@ -389,3 +389,8 @@ https://en.wikipedia.org/wiki/Shapiro%E2%80%93Wilk_test
 ## Day 4 - 1.5 hours
 
 [Z-test for 2 proportions](https://colab.research.google.com/drive/1EYgTZj6TZqMglNuIiTVcxcDh0yC-Jk3V)
+
+
+## Day 5 - 1.5 hours
+
+[Exercises of the chapter 2 (Z-test)](https://colab.research.google.com/drive/1lKHhzLND1yqJlryWRB121yNKEeWQMA_N)
