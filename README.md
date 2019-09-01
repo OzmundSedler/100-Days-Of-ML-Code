@@ -349,9 +349,7 @@ https://towardsdatascience.com/3-strategies-to-guarantee-a-data-science-job-with
 https://towardsdatascience.com/data-scientists-the-five-graph-algorithms-that-you-should-know-30f454fa5513
 
 
-## Week 11
-
-## Day 1 - 2 hours
+## Week 11 - 12 hours
 
 **Theory** : 
 
@@ -359,47 +357,39 @@ More work on statistics - same topics, some calculations on paper to better unde
 
 A/B testing. Conditions, Metrics. How to create groups e.t.c. Experiment design. A/A testing.  
 
-**Practice** : 
-
-Installed jupyter lab -> will try it.
-
-**Other**
-
-Started Practically Cheating Statistics Handbook
-
-
-## Day 2-3 - 3 hours
-
-**Theory** : 
+Hypothesis testing. Parametric and Non-Parametric statistical tests.
 
 Student's tests, p-value, T-Score vs. Z-Score e.t.c. One- and two-tailed tests. Shapiro–Wilk test. 
 
+Wilcoxon signed rank test, permutation test, bootstap test. Mann-Whitney test. 
+
 **Practice** : 
+
+Installed jupyter lab. 
 
 [Student's test 1](https://colab.research.google.com/drive/1y87zgFan234idjXPOW5cEUlrWpkPNr2Q)
 
 [Student's test 2](https://colab.research.google.com/drive/1gKQhnz5nIafDvWvAq00jKwxSJJkMZRNU)
 
-**Other**
-
-https://en.wikipedia.org/wiki/One-_and_two-tailed_tests
-
-https://en.wikipedia.org/wiki/Shapiro%E2%80%93Wilk_test
-
-## Day 4 - 1.5 hours
-
 [Z-test for 2 proportions](https://colab.research.google.com/drive/1EYgTZj6TZqMglNuIiTVcxcDh0yC-Jk3V)
 
-
-## Day 5 - 1.5 hours
-
 [Exercises of the chapter 2 (Z-test)](https://colab.research.google.com/drive/1lKHhzLND1yqJlryWRB121yNKEeWQMA_N)
-
-
-## Day 6 - 2 hours
 
 [Non-parametric tests 1](https://colab.research.google.com/drive/1hXjePPo3AVSfX9DsEfODVJi0_4NFgQW5)
 
 [Non-parametric tests 2](https://colab.research.google.com/drive/1uRGFBmPZCTnaK7XV0QLi9u8GLD8MVprI)
 
 [Non-parametric tests 3](https://colab.research.google.com/drive/1jaKHeJvc95J9asZ0PxSZuWyddHnqm913)
+
+[Non-parametric tests practice exercise](https://colab.research.google.com/drive/1ZhIZrLUg5P-AYoFw3PjX-kt7cI08cYQe)
+
+**Other**
+
+Started Practically Cheating Statistics Handbook
+
+https://en.wikipedia.org/wiki/One-_and_two-tailed_tests
+
+https://en.wikipedia.org/wiki/Shapiro%E2%80%93Wilk_test
+
+https://www.statisticshowto.datasciencecentral.com/parametric-and-non-parametric-data/
+
