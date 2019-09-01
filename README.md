@@ -394,3 +394,12 @@ https://en.wikipedia.org/wiki/Shapiro%E2%80%93Wilk_test
 ## Day 5 - 1.5 hours
 
 [Exercises of the chapter 2 (Z-test)](https://colab.research.google.com/drive/1lKHhzLND1yqJlryWRB121yNKEeWQMA_N)
+
+
+## Day 6 - 2 hours
+
+[Non-parametric tests 1](https://colab.research.google.com/drive/1hXjePPo3AVSfX9DsEfODVJi0_4NFgQW5)
+
+[Non-parametric tests 2](https://colab.research.google.com/drive/1uRGFBmPZCTnaK7XV0QLi9u8GLD8MVprI)
+
+[Non-parametric tests 3](https://colab.research.google.com/drive/1jaKHeJvc95J9asZ0PxSZuWyddHnqm913)
