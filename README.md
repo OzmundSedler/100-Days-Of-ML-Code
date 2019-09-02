@@ -393,3 +393,17 @@ https://en.wikipedia.org/wiki/Shapiro%E2%80%93Wilk_test
 
 https://www.statisticshowto.datasciencecentral.com/parametric-and-non-parametric-data/
 
+
+## Week 11 - 12 hours
+
+**Theory** : 
+
+Correlation. Pearson corr. Spearman Corr. Mathews corr. Cramer's V.
+
+[Cool game - guess the correlation](http://guessthecorrelation.com/)
+
+**Practice** : 
+
+[Pearson correlation](https://colab.research.google.com/drive/1lt0BaENsBWo-omOqvyIvye3pZc6I9YpB)
+
+[Pearson/Spearman correlation](https://colab.research.google.com/drive/1pZ2gHF9AVVp5VQZtFZZEYWpfIBRXtQpQ)
