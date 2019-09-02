@@ -394,7 +394,7 @@ https://en.wikipedia.org/wiki/Shapiro%E2%80%93Wilk_test
 https://www.statisticshowto.datasciencecentral.com/parametric-and-non-parametric-data/
 
 
-## Week 11 - 12 hours
+## Week 12 - 1.5 + + + + + +  hours
 
 **Theory** : 
 
