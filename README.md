@@ -394,7 +394,7 @@ https://en.wikipedia.org/wiki/Shapiro%E2%80%93Wilk_test
 https://www.statisticshowto.datasciencecentral.com/parametric-and-non-parametric-data/
 
 
-## Week 12 - 1.5 + 1.5 + + + + +  hours
+## Week 12 - 1.5 + 1.5 + 1 + 1.5 + + +  hours
 
 **Theory** : 
 
@@ -414,3 +414,4 @@ Correction for multiple hypothesis testing. Bonferroni Correction. Holm’s Step
 
 [Multiple Hypothesis testing](https://colab.research.google.com/drive/1x78quFVNotSJP1PE2sOsCYdza_WbBPp8)
 
+[Multiple Hypothesis testing test](https://colab.research.google.com/drive/1MqTC4q8bOjEI6i2YcmcgkAXtSSYj6ZGR)
