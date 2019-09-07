@@ -279,7 +279,7 @@ https://medium.com/@burakteke/tutorial-on-using-google-colab-for-kaggle-competit
 
 https://colab.research.google.com/notebooks/io.ipynb - great notebook about working with External data: Local Files, Drive, Sheets, and Cloud Storage in collab
 
-## Month 3 total: 42 hours
+## Month 3 total: 44 hours
 
 ## Week 9.1 (5 days) - 7 hours
 
@@ -397,7 +397,7 @@ https://en.wikipedia.org/wiki/Shapiro%E2%80%93Wilk_test
 https://www.statisticshowto.datasciencecentral.com/parametric-and-non-parametric-data/
 
 
-## Week 12 - 10 hours
+## Week 12 - 12 hours
 
 **Theory** : 
 
@@ -418,6 +418,8 @@ Correction for multiple hypothesis testing. Bonferroni Correction. Holm’s Step
 [Multiple Hypothesis testing](https://colab.research.google.com/drive/1x78quFVNotSJP1PE2sOsCYdza_WbBPp8)
 
 [Multiple Hypothesis testing test](https://colab.research.google.com/drive/1MqTC4q8bOjEI6i2YcmcgkAXtSSYj6ZGR)
+
+[Full linear regression hypothesis testing exercise](https://colab.research.google.com/drive/1AbYWWB4PkM7UgvZutX7vGK-0q7i_cuHv)
 
 **Other**
 
