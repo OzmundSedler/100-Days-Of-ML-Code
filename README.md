@@ -1,4 +1,5 @@
 # 100-Days-Of-ML-Code
+
 Hello world!
 100 Days of Machine Learning Coding as proposed by Siraj Raval
 
@@ -278,7 +279,9 @@ https://medium.com/@burakteke/tutorial-on-using-google-colab-for-kaggle-competit
 
 https://colab.research.google.com/notebooks/io.ipynb - great notebook about working with External data: Local Files, Drive, Sheets, and Cloud Storage in collab
 
-## Week 9.1 (5 days)
+## Month 3 total: 42 hours
+
+## Week 9.1 (5 days) - 7 hours
 
 **Theory** : 
 
@@ -295,7 +298,7 @@ I decided to take a break from the challenge for the time I will be on vacation.
 # Aaaaaaaaaaand I am back :) 
 ## One week after vacation has already passed. Of course i havent learned anything during the trip across the Italy (there were some things to do). So the plan for now is to refresh everything i've learned so far and start the second part of the journey !
 
-## Week 9.2 (5 days)
+## Week 9.2 (5 days) - 7 hours
 ### Week 9 is devided by 3 weeks and the second part of it is tributed to just refresh everything that i've learned so far. So, i decided not to declare it as week 10, but as the second part of week 9. 
 
 **Theory** : 
@@ -394,7 +397,7 @@ https://en.wikipedia.org/wiki/Shapiro%E2%80%93Wilk_test
 https://www.statisticshowto.datasciencecentral.com/parametric-and-non-parametric-data/
 
 
-## Week 12 - 1.5 + 1.5 + 1 + 1.5 + + +  hours
+## Week 12 - 10 hours
 
 **Theory** : 
 
@@ -415,3 +418,7 @@ Correction for multiple hypothesis testing. Bonferroni Correction. Holm’s Step
 [Multiple Hypothesis testing](https://colab.research.google.com/drive/1x78quFVNotSJP1PE2sOsCYdza_WbBPp8)
 
 [Multiple Hypothesis testing test](https://colab.research.google.com/drive/1MqTC4q8bOjEI6i2YcmcgkAXtSSYj6ZGR)
+
+**Other**
+
+Finished Practically Cheating Statistics Handbook
