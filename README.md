@@ -419,7 +419,9 @@ Correction for multiple hypothesis testing. Bonferroni Correction. Holm’s Step
 
 [Multiple Hypothesis testing test](https://colab.research.google.com/drive/1MqTC4q8bOjEI6i2YcmcgkAXtSSYj6ZGR)
 
-[Full linear regression hypothesis testing exercise](https://colab.research.google.com/drive/1AbYWWB4PkM7UgvZutX7vGK-0q7i_cuHv)
+[Full linear regression hypothesis testing lecture notebook](https://colab.research.google.com/drive/1AbYWWB4PkM7UgvZutX7vGK-0q7i_cuHv)
+
+[Full linear regression hypothesis testing exercise](https://colab.research.google.com/drive/1hdEActQeQeQe19LFr_bK1v27V2rhK5jh)
 
 **Other**
 
