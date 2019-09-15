@@ -1,4 +1,4 @@
-# 100-Days-Of-ML-Code
+# 183-Days-Of-ML-Code
 
 Hello world!
 100 Days of Machine Learning Coding as proposed by Siraj Raval
@@ -426,3 +426,29 @@ Correction for multiple hypothesis testing. Bonferroni Correction. Holm’s Step
 **Other**
 
 Finished Practically Cheating Statistics Handbook
+
+## Week 13 - 15 hours of hell
+
+**Practice** : 
+
+4 big practice tasks on statistics.
+I understood that i need to spend next week to repeat statistic course.
+Because:
+a. It's very important.
+b. Unlike math, linear algebra, probability theory e.t.c it is my first encounter with it, so i want to ensure that i got it right.
+c. I need to translate notebooks ¯\_(ツ)_/¯
+
+[Detection of statistically significant differences in gene expression levels of cancer patients](https://colab.research.google.com/drive/1M6HY-PBIjO1y8EeYHlrQVqceOd3aIhuk)
+
+[Data Analysis in Credit Scoring Problem](https://colab.research.google.com/drive/1n8M9fYRT-i2Csl7WkO0-myvqX451jTI9)
+
+[AB new browser feature test analytics](https://colab.research.google.com/drive/1xeRiAv4w4xRz_1JdGCVhsujIpL9S4RKk)
+
+[Churn analysis in telecom company](https://colab.research.google.com/drive/11fUg-QOvhQ3oVYdSf87oQoFAq1p0I4G7)
+
+
+**Other** : 
+
+Reading "Hands on machine learning with scikit learn and tensorflow v2."
+
+## 100 days -> 183 days XD
