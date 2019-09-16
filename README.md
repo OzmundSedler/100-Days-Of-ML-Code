@@ -343,12 +343,17 @@ Sarted statistics course. Disributions. Quantile. Confidence interval. Confidenc
 **Other**
 
 https://www.statisticshowto.datasciencecentral.com/probability-and-statistics/confidence-interval/
+
 https://cran.r-project.org/web/packages/dabestr/vignettes/bootstrap-confidence-intervals.html
 
 https://medium.com/@Nithanaroy/3-ways-to-design-affective-classes-in-ml-classification-algorithms-57a302e5397b
+
 https://towardsdatascience.com/p-values-explained-by-data-scientist-f40a746cfc8
+
 https://www.kdnuggets.com/2019/06/statistics-mistakes-data-scientists.html
+
 https://towardsdatascience.com/3-strategies-to-guarantee-a-data-science-job-with-no-experience-68d85b345f21
+
 https://towardsdatascience.com/data-scientists-the-five-graph-algorithms-that-you-should-know-30f454fa5513
 
 
