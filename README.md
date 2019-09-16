@@ -452,3 +452,21 @@ c. I need to translate notebooks ¯\_(ツ)_/¯
 Reading "Hands on machine learning with scikit learn and tensorflow v2."
 
 ## 100 days -> 183 days XD
+
+## Week 14 - 2h + 
+
+**Theory** : 
+
+Started repeating.
+
+**Practice** : 
+
+Rolled in Open Data Science ML course. Created separate repository for it.
+
+**Other** : 
+
+[Great toll for small datasets](https://pypi.org/project/pandas-profiling/#description)
+
+[Wonderful artcle about real DS and ML work](https://towardsdatascience.com/data-science-is-boring-1d43473e353e)
+
+[6 Different Ways to Compensate for Missing Values In a Dataset](https://towardsdatascience.com/6-different-ways-to-compensate-for-missing-values-data-imputation-with-examples-6022d9ca0779)
