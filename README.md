@@ -475,3 +475,17 @@ Rolled in Open Data Science ML course. Created separate repository for it.
 [Wonderful artcle about real DS and ML work](https://towardsdatascience.com/data-science-is-boring-1d43473e353e)
 
 [6 Different Ways to Compensate for Missing Values In a Dataset](https://towardsdatascience.com/6-different-ways-to-compensate-for-missing-values-data-imputation-with-examples-6022d9ca0779)
+
+## Week 15 - 19
+
+I kinda forgot about this repo. So i almost finished a book called hands on machine learning with scikit learn and tensorflow v2.0. Enrolled and participating in Open Data Science coursу and also reading a lot.
+
+## Week 20
+
+**Theory** : 
+
+
+**Practice** : 
+
+
+**Other** : 
