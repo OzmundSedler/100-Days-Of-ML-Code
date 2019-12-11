@@ -440,6 +440,8 @@ Correction for multiple hypothesis testing. Bonferroni Correction. Holm’s Step
 
 Finished Practically Cheating Statistics Handbook
 
+## Month 4 total: 60 hours
+
 ## Week 13 - 15 hours of hell
 
 **Practice** : 
@@ -464,9 +466,7 @@ c. I need to translate notebooks ¯\_(ツ)_/¯
 
 Reading "Hands on machine learning with scikit learn and tensorflow v2."
 
-## 100 days -> 183 days XD
-
-## Week 14 - 2h + 
+## Week 14 - 12h
 
 **Theory** : 
 
@@ -484,16 +484,68 @@ Rolled in Open Data Science ML course. Created separate repository for it.
 
 [6 Different Ways to Compensate for Missing Values In a Dataset](https://towardsdatascience.com/6-different-ways-to-compensate-for-missing-values-data-imputation-with-examples-6022d9ca0779)
 
-## Week 15 - 19
+## Week 15 - 
+
+## Week 16 - 19
 
 I kinda forgot about this repo. So i almost finished a book called hands on machine learning with scikit learn and tensorflow v2.0. Enrolled and participating in Open Data Science coursу and also reading a lot.
 
+## Month 5 total: 60 hours
+
+## Week 17
+
+## Week 18
+
+## Week 19
+
 ## Week 20
+
+## Month 6 total: 60 hours
+
+## Week 21
+
+## Week 22
+
+## Week 23
+
+## Week 24
+
+## Month 7 total: 
+
+## Week 25 - 15h
 
 **Theory** : 
 
+Neural networks. PyTorch framework. Convolutional networks. 
 
 **Practice** : 
 
+MNIST classifier with NN. DogCats classifier with NN and convolutional NN. NN on synthesized datasets.
 
 **Other** : 
+
+4 great articles to understand basics of NN:
+
+[CNN in PyTorch](https://algorithmia.com/blog/convolutional-neural-nets-in-pytorch)
+
+[CNN theory from Stanford's CS231](http://cs231n.github.io/convolutional-networks/)
+
+[Basics of image classification with pytorch](https://heartbeat.fritz.ai/basics-of-image-classification-with-pytorch-2f8973c51864)
+
+[Dogs and cats CNN](http://ernie55ernie.github.io/machine%20learning/2019/01/06/dogs-and-cats-using-pretrained-convolution-neural-network-for-feature-extraction-and-prediction-with-pytorch.html)
+
+
+## Week 26
+
+
+**Theory** : 
+
+Search ranking. Metrics of search ranking: Acc, precision, DCG. Ranking methods: Listwise approach. Types of recommendation systems: Colaborative filtering, content-based. Hybrid systems. Offline and online metrics of recommendation systems. 
+
+**Practice** : 
+
+Building simple recommendation system based on most viewed, most bought items for user sessions in the e-commerce shop. 
+
+**Other** : 
+
+Returned here, trying to rember and fill evrth, i've done for 3 monthes XD
