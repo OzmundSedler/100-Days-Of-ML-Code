@@ -535,8 +535,7 @@ MNIST classifier with NN. DogCats classifier with NN and convolutional NN. NN on
 [Dogs and cats CNN](http://ernie55ernie.github.io/machine%20learning/2019/01/06/dogs-and-cats-using-pretrained-convolution-neural-network-for-feature-extraction-and-prediction-with-pytorch.html)
 
 
-## Week 26
-
+## Week 26 2+2+2
 
 **Theory** : 
 
