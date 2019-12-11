@@ -1,13 +1,21 @@
-# 183-Days-Of-ML-Code
+# Path to junior ML engineer
 
 Hello world!
-100 Days of Machine Learning Coding as proposed by Siraj Raval
-
-First step — 2 big learning courses. I selected classic Stanford ML and Yandex ML specialization. I think I will translate collab notebooks with exercises in English if anybody will have an interest in them.
+100 Days of Machine Learning Coding started inspired by Sirj Raval idea -> transformed into path to great ML junior.
 
 My related knowledge stack — python, a basic level of SQL, basics of math analysis linear algebra, probability theory. All the stuff you would expect to learn in a tech university. I am halfway through the Andrew NG ML course and the second Yandex course in the ML and Data analytics specialization.
 
-#100DaysOfMLCode
+## First step - Finished
+
+2 big learning courses. I selected classic Stanford ML and Yandex ML specialization. I think I will translate collab notebooks with exercises in English if anybody will have an interest in them.
+
+## Second step - Currently running
+
+2 Advanced courses, dive into Neural Networks
+
+## Third step 
+
+A couple of projects maybe ?
 
 ## Month 1 total: 59 hours
 
