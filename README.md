@@ -1,13 +1,21 @@
-# 183-Days-Of-ML-Code
+# Path to ML world
 
 Hello world!
-100 Days of Machine Learning Coding as proposed by Siraj Raval
-
-First step — 2 big learning courses. I selected classic Stanford ML and Yandex ML specialization. I think I will translate collab notebooks with exercises in English if anybody will have an interest in them.
+100 Days of Machine Learning Coding started inspired by Sirj Raval idea -> transformed into path to great ML junior.
 
 My related knowledge stack — python, a basic level of SQL, basics of math analysis linear algebra, probability theory. All the stuff you would expect to learn in a tech university. I am halfway through the Andrew NG ML course and the second Yandex course in the ML and Data analytics specialization.
 
-#100DaysOfMLCode
+## First step - Finished
+
+2 big learning courses. I selected classic Stanford ML and Yandex ML specialization. I think I will translate collab notebooks with exercises in English if anybody will have an interest in them.
+
+## Second step - Currently running
+
+2 Advanced courses, dive into Neural Networks
+
+## Third step 
+
+A couple of projects maybe ?
 
 ## Month 1 total: 59 hours
 
@@ -432,6 +440,8 @@ Correction for multiple hypothesis testing. Bonferroni Correction. Holm’s Step
 
 Finished Practically Cheating Statistics Handbook
 
+## Month 4 total: 60 hours
+
 ## Week 13 - 15 hours of hell
 
 **Practice** : 
@@ -456,9 +466,7 @@ c. I need to translate notebooks ¯\_(ツ)_/¯
 
 Reading "Hands on machine learning with scikit learn and tensorflow v2."
 
-## 100 days -> 183 days XD
-
-## Week 14 - 2h + 
+## Week 14 - 12h
 
 **Theory** : 
 
@@ -476,16 +484,70 @@ Rolled in Open Data Science ML course. Created separate repository for it.
 
 [6 Different Ways to Compensate for Missing Values In a Dataset](https://towardsdatascience.com/6-different-ways-to-compensate-for-missing-values-data-imputation-with-examples-6022d9ca0779)
 
-## Week 15 - 19
+## Week 15 - 
+
+## Week 16 - 19
 
 I kinda forgot about this repo. So i almost finished a book called hands on machine learning with scikit learn and tensorflow v2.0. Enrolled and participating in Open Data Science coursу and also reading a lot.
 
+## Month 5 total: 60 hours
+
+## Week 17
+
+## Week 18
+
+## Week 19
+
 ## Week 20
+
+## Month 6 total: 60 hours
+
+## Week 21
+
+## Week 22
+
+## Week 23
+
+## Week 24
+
+## Month 7 total: 
+
+## Week 25 - 15h
 
 **Theory** : 
 
+Neural networks. PyTorch framework. Convolutional networks. 
 
 **Practice** : 
 
+MNIST classifier with NN. DogCats classifier with NN and convolutional NN. NN on synthesized datasets.
 
 **Other** : 
+
+4 great articles to understand basics of NN:
+
+[CNN in PyTorch](https://algorithmia.com/blog/convolutional-neural-nets-in-pytorch)
+
+[CNN theory from Stanford's CS231](http://cs231n.github.io/convolutional-networks/)
+
+[Basics of image classification with pytorch](https://heartbeat.fritz.ai/basics-of-image-classification-with-pytorch-2f8973c51864)
+
+[Dogs and cats CNN](http://ernie55ernie.github.io/machine%20learning/2019/01/06/dogs-and-cats-using-pretrained-convolution-neural-network-for-feature-extraction-and-prediction-with-pytorch.html)
+
+
+## Week 26 2+2+2
+
+**Theory** : 
+
+Search ranking. Metrics of search ranking: Acc, precision, DCG. Ranking methods: Listwise approach. Types of recommendation systems: Colaborative filtering, content-based. Hybrid systems. Offline and online metrics of recommendation systems.
+
+Refreshing ingormation about preprocessing of datasets and pipelines.
+
+**Practice** : 
+
+Building simple recommendation system based on most viewed, most bought items for user sessions in the e-commerce shop.
+Enrolled in Kaggle Intermediate Machine Learning course (decided to pass all of useful kaggle courses)
+
+**Other** : 
+
+Returned here, trying to rember and fill evrth, i've done for 3 monthes XD
