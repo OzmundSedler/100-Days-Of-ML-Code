@@ -1,4 +1,4 @@
-# Path to junior ML engineer
+# Path to ML world
 
 Hello world!
 100 Days of Machine Learning Coding started inspired by Sirj Raval idea -> transformed into path to great ML junior.
@@ -539,11 +539,14 @@ MNIST classifier with NN. DogCats classifier with NN and convolutional NN. NN on
 
 **Theory** : 
 
-Search ranking. Metrics of search ranking: Acc, precision, DCG. Ranking methods: Listwise approach. Types of recommendation systems: Colaborative filtering, content-based. Hybrid systems. Offline and online metrics of recommendation systems. 
+Search ranking. Metrics of search ranking: Acc, precision, DCG. Ranking methods: Listwise approach. Types of recommendation systems: Colaborative filtering, content-based. Hybrid systems. Offline and online metrics of recommendation systems.
+
+Refreshing ingormation about preprocessing of datasets and pipelines.
 
 **Practice** : 
 
-Building simple recommendation system based on most viewed, most bought items for user sessions in the e-commerce shop. 
+Building simple recommendation system based on most viewed, most bought items for user sessions in the e-commerce shop.
+Enrolled in Kaggle Intermediate Machine Learning course (decided to pass all of useful kaggle courses)
 
 **Other** : 
 
