@@ -535,18 +535,20 @@ MNIST classifier with NN. DogCats classifier with NN and convolutional NN. NN on
 [Dogs and cats CNN](http://ernie55ernie.github.io/machine%20learning/2019/01/06/dogs-and-cats-using-pretrained-convolution-neural-network-for-feature-extraction-and-prediction-with-pytorch.html)
 
 
-## Week 26 2+2+2
+## Week 26 2+2+2+1.5+2
 
 **Theory** : 
 
 Search ranking. Metrics of search ranking: Acc, precision, DCG. Ranking methods: Listwise approach. Types of recommendation systems: Colaborative filtering, content-based. Hybrid systems. Offline and online metrics of recommendation systems.
 
 Refreshing ingormation about preprocessing of datasets and pipelines.
+XGBoost and Data leakage. 
 
 **Practice** : 
 
 Building simple recommendation system based on most viewed, most bought items for user sessions in the e-commerce shop.
-Enrolled in Kaggle Intermediate Machine Learning course (decided to pass all of useful kaggle courses)
+Enrolled in Kaggle Intermediate Machine Learning course (decided to pass all of useful kaggle courses).
+Finished Kaggle Intermediate Machine Learning course.
 
 **Other** : 
 
