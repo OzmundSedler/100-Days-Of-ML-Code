@@ -556,3 +556,18 @@ Finished Kaggle vizualization course.
 **Other** : 
 
 Returned here, trying to rember and fill evrth, i've done for 3 monthes XD
+
+# New 2020 Year 
+
+I left my current job as python backend developer to fully commit myself to ML and DS.
+I am planning to study and repeat evrth in 2-3 monthes and then find a job.
+
+# Week 1 (January 2 - 5)
+
+**Theory** : 
+
+Started IBM Advanced DS specialization on Coursera. Planning to complete it in this month. Also will be repeating theory by working with Open Data Science coursу notebooks and Kaggle learn courses.
+
+**Practice** : 
+
+**Other** : 
