@@ -562,12 +562,17 @@ Returned here, trying to rember and fill evrth, i've done for 3 monthes XD
 I left my current job as python backend developer to fully commit myself to ML and DS.
 I am planning to study and repeat evrth in 2-3 monthes and then find a job.
 
-# Week 1 (January 2 - 5)
+# Week 1 (January 2 - 5) - 15 hours
 
 **Theory** : 
 
-Started IBM Advanced DS specialization on Coursera. Planning to complete it in this month. Also will be repeating theory by working with Open Data Science coursу notebooks and Kaggle learn courses.
+Completed irst course of IBM Advanced DS specialization on Coursera - Fundamentals of Scalable Data Science.
+Learned about Apache Spark architewcture and parallel processing principles. Apache parquet. ApacheSparksSQL, dataframes. Cloudant.
 
 **Practice** : 
 
+Completed all assignments andtests of course. Also finished kaggle SQL course.
+
 **Other** : 
+
+Read A LOT about jobs, necessary skills, and sorted best interview and portfolio advices. 
