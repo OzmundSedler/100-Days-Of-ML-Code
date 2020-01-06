@@ -567,7 +567,7 @@ I am planning to study and repeat evrth in 2-3 monthes and then find a job.
 **Theory** : 
 
 Completed irst course of IBM Advanced DS specialization on Coursera - Fundamentals of Scalable Data Science.
-Learned about Apache Spark architewcture and parallel processing principles. Apache parquet. ApacheSparksSQL, dataframes. Cloudant.
+Learned about Apache Spark architewcture and parallel processing principles. Apache parquet. ApacheSparksSQL, dataframes. Cloudant. HDFS.
 
 **Practice** : 
 
