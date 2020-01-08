@@ -577,3 +577,18 @@ Completed all assignments andtests of course. Also finished kaggle SQL course.
 
 Read A LOT about jobs, necessary skills, and sorted best interview and portfolio advices. 
 Thinking about the first project to build.
+
+# Week 2 - 3 + 3 + 3 hours 
+
+**Theory** : 
+
+Started all IBM specialization courses first weeks - for some reason they have simounteneous deadlines
+Finished Kaggle SQL Intro course.
+
+**Practice** : 
+
+Completed all assignments andtests of course. Also finished kaggle SQL course.
+
+**Other** : 
+
+Decided what first project I will do
