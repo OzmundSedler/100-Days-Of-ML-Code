@@ -562,33 +562,25 @@ Returned here, trying to rember and fill evrth, i've done for 3 monthes XD
 I left my current job as python backend developer to fully commit myself to ML and DS.
 I am planning to study and repeat evrth in 2-3 monthes and then find a job.
 
-# Week 1 (January 2 - 5) - 15 hours
+# Month 1 (January 10 - Feb 12)
 
 **Theory** : 
 
-Completed irst course of IBM Advanced DS specialization on Coursera - Fundamentals of Scalable Data Science.
-Learned about Apache Spark architewcture and parallel processing principles. Cloudant. HDFS. RDD (Resilent distributed dataset). Apache parquet. ApacheSparksSQL, dataframes. 
+Completed full IBM Advanced DS specialization on Coursera - https://github.com/OzmundSedler/IBM-advanced-DS-coursera
+
+Apache Spark. Cloudant. HDFS. RDD (Resilent distributed dataset). Apache parquet. ApacheSparksSQL. ML Pipelines. Fourier Transform. Wavelet Transform. TensorFlow. Apache SystemML. DL4J Fundamentals. PyTorch Introduction. Sequence Classification with Keras LSTM Network. Full project. 
+
+Started Math Specialization to build stable knowledge of foundations - https://www.coursera.org/specializations/mathematics-for-data-science
+
+Started Deep Learning Specialization - https://www.coursera.org/specializations/deep-learning
 
 **Practice** : 
 
-Completed all assignments andtests of course. Also finished kaggle SQL course.
+Full project made in IBM Advanced DS specialization. 
+
+Finished kaggle SQL course.
 
 **Other** : 
 
 Read A LOT about jobs, necessary skills, and sorted best interview and portfolio advices. 
 Thinking about the first project to build.
-
-# Week 2 - 3 + 3 + 3 hours 
-
-**Theory** : 
-
-Started all IBM specialization courses first weeks - for some reason they have simounteneous deadlines
-Finished Kaggle SQL Intro course.
-
-**Practice** : 
-
-Completed all assignments andtests of course. Also finished kaggle SQL course.
-
-**Other** : 
-
-Decided what first project I will do
