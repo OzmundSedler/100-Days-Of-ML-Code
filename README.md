@@ -502,13 +502,13 @@ I kinda forgot about this repo. So i almost finished a book called hands on mach
 
 ## Month 6 total: 60 hours
 
-## Week 21
+Northwestern University ML courses.
 
-## Week 22
+**Interesting**: PyTorch. 2 weeks of reinforcment learning.
 
-## Week 23
+**Coding from zero**: linear regression, gradient descent, KNN, SVM.
 
-## Week 24
+https://github.com/OzmundSedler/NorthwesternUniversityML
 
 ## Month 7 total: 
 
