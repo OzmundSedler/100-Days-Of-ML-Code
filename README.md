@@ -1,7 +1,7 @@
 # Path to ML world
 
 Hello world!
-100 Days of Machine Learning Coding started inspired by Sirj Raval idea -> transformed into path to great ML junior.
+100 Days of Machine Learning Coding started -> transformed into path to great ML junior.
 
 My related knowledge stack — python, a basic level of SQL, basics of math analysis linear algebra, probability theory. All the stuff you would expect to learn in a tech university. I am halfway through the Andrew NG ML course and the second Yandex course in the ML and Data analytics specialization.
 
@@ -484,25 +484,17 @@ Rolled in Open Data Science ML course. Created separate repository for it.
 
 [6 Different Ways to Compensate for Missing Values In a Dataset](https://towardsdatascience.com/6-different-ways-to-compensate-for-missing-values-data-imputation-with-examples-6022d9ca0779)
 
-## Week 15 - 
-
 ## Week 16 - 19
 
-I kinda forgot about this repo. So i almost finished a book called hands on machine learning with scikit learn and tensorflow v2.0. Enrolled and participating in Open Data Science coursу and also reading a lot.
+I kinda forgot about this repo. So i almost finished a book called hands on machine learning with scikit learn and tensorflow v2.0. Enrolled and participating in Open Data Science course and also reading a lot. 
 
 ## Month 5 total: 60 hours
 
-## Week 17
-
-## Week 18
-
-## Week 19
-
-## Week 20
+Okay, I cant actually recall what i was doing this month. Probably coding a lot and watching some new courses.
 
 ## Month 6 total: 60 hours
 
-Northwestern University ML courses.
+Helped my friend through all Northwestern University ML minor. A lot of reading again.
 
 **Interesting**: PyTorch. 2 weeks of reinforcment learning.
 
